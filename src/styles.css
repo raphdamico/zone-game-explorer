@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+.timestamp {
+  padding: 4px 10px;
+  background: grey;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.timestamp.timestamp-muted {
+  background: #ccc;
+}

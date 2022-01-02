@@ -1,0 +1,4817 @@
+{
+  "completed": true,
+  "content": {
+    "characters": [
+      {
+        "backstory": "You served for 20 proud years, always the first to run into the line of fire—but you couldn’t save everyone. After that terrible day, you began accepting increasingly dangerous dark ops missions to try to cleanse yourself. They haunt you still. You’ve now done terrible things for the flag, but you can’t stop. You’ll do anything to protect the country you love.",
+        "icon": "compass",
+        "id": 0,
+        "key": "Soldier",
+        "obsessions": [
+          "BE A HERO: Another chance to save everyone",
+          "REVENGE: The Zone took something from you",
+          "RESCUE: Find and recover the last person who loved you",
+          "BE THE STRONGEST: They said you were weak. You’ll show them",
+          "BE A GOOD SOLDIER: Follow those orders",
+          "A PLACE TO BE VIOLENT: Let your true self play"
+        ],
+        "phobias": [
+          "BEING A BURDEN: Maybe you needed rescuing",
+          "YOU DESERVED IT: You weren’t supposed to have it",
+          "BEING ALONE: That you don’t deserve love",
+          "THINGS YOU CAN’T FIGHT: Sometimes strength doesn’t matter",
+          "BAD ORDERS: What if it’s all for nothing, or worse…",
+          "LOSS OF CONTROL: That you’ll turn that violence on yourself"
+        ],
+        "role": "Keep Everyone Safe",
+        "values": [
+          "The World is a Dangerous Place",
+          "I Can Protect Them All",
+          "Violence Is A Good Solution"
+        ]
+      },
+      {
+        "backstory": "You’re a distinguished scientist, responsible for a number of key breakthroughs in your prolific early career. But you’ve followed your theories to more “creative” fringes and the academic field you once dominated has now rejected you as a fraud and a huckster.",
+        "icon": "cpu",
+        "id": 1,
+        "key": "Scientist",
+        "obsessions": [
+          "EVIDENCE: You need proof! Only then will they believe you!",
+          "COMPLETE YOUR MASTER THEORY: You need that last bit of inspiration",
+          "FIND YOUR LAB PARTNER: They’re still in here",
+          "HEAL YOURSELF: You’re sick. The answer must be here.",
+          "LEGACY: What you leave behind is all that’s worthwhile"
+        ],
+        "phobias": [
+          "INCOMPETENCE: Maybe you don’t know what you’re doing",
+          "SCIENCE CAN’T EXPLAIN EVERYTHING: There simply isn’t a unifying theory",
+          "BEING LEFT ALONE: No one else understands you",
+          "STASIS: Trapped between life and death, unable to do either",
+          "RELATIONSHIPS: Those people will die, so what’s the point"
+        ],
+        "role": "Understand and Explain The Zone",
+        "values": [
+          "Come Up With Scientific Theories",
+          "Try To Understand and Explain",
+          "Take Samples. Lots of Samples"
+        ]
+      },
+      {
+        "backstory": "A renowned talent with decades of award winning work on the international stage. But success takes its toll: you haven’t managed to write anything in over a fifteen years. You’ve tried everything, but it’s not working, and now even your fans are beginning to forget you. You cannot go out like this.",
+        "icon": "vector-pen",
+        "id": 2,
+        "key": "Writer",
+        "obsessions": [
+          "INSPIRATION: Any muse that will get you writing again",
+          "THE SCOOP: A front page story no one can beat",
+          "ANSWERS: Your lost family was from here.",
+          "REVENGE: You were shut out of this story by your superiors",
+          "ANCIENT TEXTS: You learned every ancient language for this",
+          "LOVE: You are madly in love with your own creation. Can THE ZONE manifest them?"
+        ],
+        "phobias": [
+          "IRRELEVANCE: Ceasing to be unique. Being forgotten.",
+          "D. FITZBAKER: You’ll beat that Pulitzer bastard this time",
+          "FAMILY: You as afraid to meet them as not to",
+          "WEAKNESS: What if they were right, and you can’t handle it?",
+          "ALIENS: They are out there, maaaan!",
+          "REJECTION: What if they don’t love you back?"
+        ],
+        "role": "Tell The Story Of The Zone",
+        "values": [
+          "It’s All About The Story",
+          "I Can Speak With The “Other”",
+          "It’s About Being Remembered"
+        ]
+      },
+      {
+        "backstory": "You’re an iconoclastic engineer who has made billions revolutionizing pharmaceuticals, energy, and many other fields. You learned of THE ZONE through your deep network (and pockets) and managed to get yourself added to the expedition. There’s money to be made.",
+        "icon": "tools",
+        "id": 3,
+        "key": "Entrepreneur",
+        "obsessions": [
+          "BE THE FIRST: No one else has survived this thing.You will!",
+          "REVENGE: Pushed out of your own company! They’ll see.",
+          "LONGEVITY: The one thing you can’t buy—more time.",
+          "THE SINGULARITY: It will solve everything. Humanity is just a stepping stone.",
+          "IT’S PERSONAL: Your billionaire rival was on the previous expedition. Ha!",
+          "ACCEPTANCE: Fame & fortune opens all the doors, right?"
+        ],
+        "phobias": [
+          "IRRELEVANCE: Nobody cares about you anymore",
+          "IT WAS DESERVED: You actually did screw up. Your edge is gone",
+          "ANNIHILATION: You cannot simply disappear",
+          "NOT BEING INCLUDED: That the A.I. makes this new world without you",
+          "BEING WEAK AND TINY: That you can’t overcome these challenges",
+          "RIDICULE: They laugh behind your back"
+        ],
+        "role": "Profit From The Zone",
+        "values": [
+          "Follow The Dollar",
+          "Solve Everything With Technology",
+          "Proudly Disrupt The Status Quo"
+        ]
+      },
+      {
+        "backstory": "You were a army Chaplain, strong in your faith even amidst the grim horrors of war. On your return, you dutifully built a cozy and devoted congregation, even as your own faith started to unravel. When you were drafted by powerful organizations who believe THE ZONE is divine, you could not say no.",
+        "icon": "lightning",
+        "id": 4,
+        "key": "Chaplain",
+        "obsessions": [
+          "FAITH: Can you hear the voice of god again?",
+          "PROVE SCIENCE WRONG: If only they could see the divine plan as you do",
+          "SOULS GONE ASTRAY: Help those who have lost their path",
+          "CLEANSING: Can you ever forget the things you saw?"
+        ],
+        "phobias": [
+          "MEANINGLESS: That there is no one out there listening",
+          "THE WRONG PLAN: There is a plan, but you followed the wrong one",
+          "HURT EVERYONE YOU TOUCH: Those souls are worse off",
+          "AMNESIA: Losing all your memories, good & bad"
+        ],
+        "role": "Protect Everyone's Humanity",
+        "values": [
+          "Notice Moral Dilemmas",
+          "Highlight The Limits Of Science",
+          "Check In On People’s Souls"
+        ]
+      },
+      {
+        "backstory": "The career “suit” first entrusted with containing THE ZONE. You studied it, secretly orchestrating dozens of clinical experiments on the locals to assess the risk. Now you’ve been cut you off from them. You need to know what happened to them—and the risk it poses to the rest of the world.",
+        "icon": "briefcase",
+        "id": 5,
+        "key": "Bureaucrat",
+        "obsessions": [
+          "SALVAGE THE EXPERIMENT: It can’t be for nothing!",
+          "CONTROL EVERY ASPECT OF YOUR LIFE: Uncertainty is simply unnecessary",
+          "PROMOTION: You will nail that performance review.",
+          "SEE FOR YOURSELF: You’ve sent so many in. You need to see it yourself.",
+          "A TROPHY: Something to hang on your office wall, to show off",
+          "SOCIAL CLIMB: This’ll show them. They’ll respect you now."
+        ],
+        "phobias": [
+          "THE LOCALS: Somehow, they must have known it was you—and they blame you for it all.",
+          "ABSENCE OF PROCEDURE: What do you reference when there’s no reference?",
+          "THOSE ABOVE YOU: Just the chain of command",
+          "CONSEQUENCES: You were just following orders. You always thought that absolved you.",
+          "TINY THREATS: Too small to see. They can get under your skin.",
+          "EMBARASSEMENT: You can never let them see it"
+        ],
+        "role": "Contain The Zone (At All Costs)",
+        "values": [
+          "Control And Contain",
+          "Cover Your Ass",
+          "Finish The Experiment"
+        ]
+      },
+      {
+        "backstory": "You’re the one they call in for the strange cases, the anomalies, the operations others simply refuse to do. Your work has pushed the boundaries of our of human anatomy. Some would say you've gone too far. But you don't care—you love getting your hands dirty",
+        "icon": "droplet",
+        "id": 6,
+        "key": "Surgeon",
+        "obsessions": [
+          "YOUR FULL POTENTIAL: There is so much more you can do with your hands",
+          "THE PERFECT ORGANISM: Find it… or make it yourself",
+          "AUTOMATIC SURGERY: A robot that heals every ailment",
+          "PERFECT YOURSELF: They wouldn’t let you experiment on yourself, out there"
+        ],
+        "phobias": [
+          "AMPUTATION: You do it to others, but can’t stand the idea for yourself",
+          "BEING OBSOLETE: Would the perfect organism need you?",
+          "BLOOD: It’s ironic, but you can’t stand the sight",
+          "THE WRONG TREE: What if someone else is more worthy"
+        ],
+        "role": "Keep Everyone \"Alive\"",
+        "values": [
+          "The Human Body Is My Playground",
+          "Second, Do No Harm",
+          "There’s Always A Procedure"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "id": 0,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/D6D473F8-42FF-11EA-B3EF-8F5CCE0DAE13/HQ.png",
+        "key": "zoneObservationFacility",
+        "name": "The Zone Observation Facility",
+        "type": "special",
+        "variant1": "Field tents, sandbags, and portable scientific equipment in the rugged no-man's land around The Zone. Moved often to stay out of The Boundary's expansion",
+        "variant2": "A hulking steel and concrete complex with many sublevels of containment chambers and accomodation for hundreds of classified personnel",
+        "variant3": "A rustic manor and farm just outside the Boundary, requisitioned by the FBC after its owners were not so lucky. "
+      },
+      {
+        "id": 1,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/D6D473F8-42FF-11EA-B3EF-8F5CCE0DAE13/HQ.png",
+        "key": "startLocation",
+        "name": "The Zone Observation Facility",
+        "type": "special",
+        "variant1": "Field tents, sandbags, and portable scientific equipment in the rugged no-man's land around The Zone. Moved often to stay out of The Boundary's expansion",
+        "variant2": "A hulking steel and concrete complex with many sublevels of containment chambers and accomodation for hundreds of classified personnel",
+        "variant3": "A rustic manor and farm just outside the Boundary, requisitioned by the FBC after its owners were not so lucky. "
+      },
+      {
+        "id": 2,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/FEE0316A-E07C-11E9-AF4B-D3E4C8377648/boundary.png",
+        "key": "boundary",
+        "name": "The Boundary",
+        "type": "special",
+        "variant1": "The Boundary is beautiful. It inspires wonder, a seductive presence drawing you into THE ZONE.",
+        "variant2": "The Boundary itself is invisible, but its presence is clearly felt in its effect on the environment and creatures it intersects.",
+        "variant3": "The Boundary is a psychological. It manifests only in your minds, triggering thoughts, memories."
+      },
+      {
+        "id": 3,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD3DD00E-DC19-11E9-B2D8-90C0F4A73648/location_background_1.png",
+        "key": "theForest",
+        "name": "The Forest",
+        "type": "Wild",
+        "variant1": "Impossible rainforest, deep with every shade of green, iridescent with eye poppingly colorful species that should not exist in this climate.",
+        "variant2": "Golden light permeates this ethereal birch forest, all whites and bright red fall foliage. Shimmering dust seems… to follow.",
+        "variant3": "Thick undergrowth, gnarled root systems, and bulging, mushroom laced trunks loom, mazelike. Glinting eyes watch from burrows."
+      },
+      {
+        "id": 4,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE452BB4-DC19-11E9-AE25-91038ABD593F/location_background_2.png",
+        "key": "theCaverns",
+        "name": "The Caverns",
+        "type": "Wild",
+        "variant1": "Shimmering life coats the walls, bathing a beautiful cave system in life that only gets weirder the deeper you get.",
+        "variant2": "A cold, dark, wet inlet; it’s only the wind, but it sure sounds like you’re entering the maw of a great beast.",
+        "variant3": "The old mine. Sensors are dead, but abandoned logbooks chart incomprehensible geologic activity; rare earths found nowhere else."
+      },
+      {
+        "id": 5,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEB051A0-DC19-11E9-B2D8-96C0F4A73648/location_background_3.png",
+        "key": "theSwamp",
+        "name": "The Swamp",
+        "type": "Wild",
+        "variant1": "Long, salt-tolerant grasses and calm wetland as far as they eye can see. Strange life thrives just below the clear, salty surface.",
+        "variant2": "Bubbling, mineral bog. Strange lights glow through sulphurous smoke.",
+        "variant3": "Suffocating bayou, throbbing with buzzing things. Dense networks of mangroves hug brackish water with mangled roots."
+      },
+      {
+        "id": 6,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEAB7310-DC19-11E9-B2D8-A8C0F4A73648/location_background_5.png",
+        "key": "theThemePark",
+        "name": "The Theme Park",
+        "type": "Town",
+        "variant1": "A corroded ferris wheel looms over overgrown galleries of carnival stands—funhouses, sickly sweet food vendors, unwinnable “games of skill”",
+        "variant2": "A park of mechanical novelties, automatons large and small showing off innovative clockwork behaviors, and the House of Electric Ghosts.",
+        "variant3": "A blockbuster park. Themed rides and biomes—Fantasy Mountain, Westland, Space Plaza, Jungle River. What was plastic seems more alive now."
+      },
+      {
+        "id": 7,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE12E79E-DC19-11E9-AE25-87038ABD593F/location_background_6.png",
+        "key": "theMansion",
+        "name": "The Mansion",
+        "type": "Town",
+        "variant1": "A beautiful, sweeping castle with perfectly manicured grounds, surrounded by a labyrinth that seems to have been last maintained yesterday",
+        "variant2": "A, dark gothic nightmare. Stained glass tells of a (hopefully) long gone occupant who did terrible things. Why are candles still lit?",
+        "variant3": "A jagged icon of modern architecture smashed into the landscape, utterly out of sorts with the local architecture. An iconoclast lived here."
+      },
+      {
+        "id": 8,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD90EFD2-DC19-11E9-B2D8-92C0F4A73648/location_background_7.png",
+        "key": "thePrison",
+        "name": "The Prison",
+        "type": "Town",
+        "variant1": "Still secure. Human sounds come from within, but you can't see inmates or guards. When you look away, lights seem to glimmer behind bars.",
+        "variant2": "The walls are in tatters and there’s a giant hole in the front gate, though it looks like it’s from something entering, not exiting.",
+        "variant3": "A panopticon. An outer ring of grimy cells, a looming central observation tower. Its darkened slits make you feel watched"
+      },
+      {
+        "id": 9,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD687F02-DC19-11E9-AE25-6D038ABD593F/location_background_8.png",
+        "key": "theVillage",
+        "name": "The Village",
+        "type": "Town",
+        "variant1": "Vibrant green overgrowth has reclaimed architecture; vines that seem to grow as you look at them.",
+        "variant2": "Eerily calm, every building perfectly preserved 30 years later; it’s as if the inhabitants could be just around the corner.",
+        "variant3": "A charred devastation; a community cut short violently; blackened, anthropomorphic remains scattered around under an even coat of ash."
+      },
+      {
+        "id": 10,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/ADC9C85C-DC19-11E9-B2D8-83C0F4A73648/location_background_9.png",
+        "key": "theFarm",
+        "name": "The Farm",
+        "type": "Town",
+        "variant1": "Greenhouses, hydroponics and a sophisticated operation, growing varietals that should not be biologically possible.",
+        "variant2": "Death permeates long rows of industrial feeders. Torn conveyor belts, smashed machinery, and fences ripped open by something powerful.",
+        "variant3": "Muddy road to a quaint, secluded barnyard. Livestock used to range freely; the impression now is more of a slaughterhouse."
+      },
+      {
+        "id": 11,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/ADD54E34-DC19-11E9-AE25-70038ABD593F/location_background_10.png",
+        "key": "theCemetery",
+        "name": "The Cemetery",
+        "type": "Town",
+        "variant1": "A memorial. Rows of dozens of simple white crosses. One is larger than the others, a single rose laid against it, still fresh.",
+        "variant2": "A well-kept public park endowed by a reclusive local dynasty. Their mausoleum takes pride of place amongst the “Stay off the grass” signs.",
+        "variant3": "A caved in chapel surrounded by a chaotic arrangement of graves that seem to have been recently disturbed. Fog sticks to everything."
+      },
+      {
+        "id": 12,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEA3926C-DC19-11E9-B2D8-A4C0F4A73648/location_background_11.png",
+        "key": "theSchool",
+        "name": "The School",
+        "type": "Town",
+        "variant1": "Rust. Bright, multi-colored mosses cover almost every surface. Everything seems to have been eaten away unnaturally fast.",
+        "variant2": "Pencils neatly squared next to open notebooks, chairs neatly tucked. It’s as if the class could come back in at any minute…",
+        "variant3": "The outside is undamaged, but everything inside seems to have been “reorganized”, as if a giant magnet had waved over the school."
+      },
+      {
+        "id": 13,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEABDC6A-DC19-11E9-AE25-8B038ABD593F/location_background_12.png",
+        "key": "theFactory",
+        "name": "The Factory",
+        "type": "Industry",
+        "variant1": "An endless, interlocking maze of conveyors and machines, still running on emergency power. The machines are still making… something.",
+        "variant2": "A foundry, blazing metal pouring from crucibles into channels. It’s sweltering here. Someone (or something) is keeping the furnaces fed.",
+        "variant3": "Skilled artisans used to make things here, and their sharp master tools are still laid out as if their owners could return any minute."
+      },
+      {
+        "id": 14,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD8B631E-DC19-11E9-B2D8-81C0F4A73648/location_background_13.png",
+        "key": "thePowerPlant",
+        "name": "The Power Plant",
+        "type": "Industry",
+        "variant1": "A sprawling geothermal plant. Sulfur erupts from colorful fumaroles everywhere in the area, and lights flit about with alien purpose.",
+        "variant2": "A power substation still crackles in a field of wind turbines, giants, still eerily spinning.",
+        "variant3": "A shattered nuclear reactor, concrete caved-in, radiation vomited into everything that surrounds it."
+      },
+      {
+        "id": 15,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEB4DD6A-DC19-11E9-AE25-8C038ABD593F/location_background_14.png",
+        "key": "theMilitaryBase",
+        "name": "The Military Base",
+        "type": "Industry",
+        "variant1": "Beyond the razor wire, a sealed clean room facility, double airlocks and auxiliary power perhaps maintaining containment protocols.",
+        "variant2": "Field tents, neat rows of Jeeps, sandbagged machine gun emplacements, but as if everyone just left, ceding to a nonexistent relief force.",
+        "variant3": "A rusty missile silo, 70 meters deep, its entrance hatch long since ripped open and its claustrophobic hallways ransacked."
+      },
+      {
+        "id": 16,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD740FD4-DC19-11E9-AE25-7E038ABD593F/location_background_18.png",
+        "key": "theLab",
+        "name": "The Lab",
+        "type": "Industry",
+        "variant1": "A containment facility, now clearly failing at its job. Clean rooms with broken doors. Torn hazard suits. All the cages are wide open.",
+        "variant2": "The testing center. Instruments, eye exams, child growth charts, wooden toys. Countless carefully labelled objects you don't recognize.",
+        "variant3": "Vats of organic material and petri dishes are everywhere, their contents growing out of their containers. The stuff is everywhere."
+      },
+      {
+        "id": 17,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD966BCE-DC19-11E9-B2D8-93C0F4A73648/location_background_19.png",
+        "key": "theHospital",
+        "name": "The Hospital",
+        "type": "City",
+        "variant1": "Colorful leaflets and toys are scattered everywhere, implying a friendly family doctor’s office. The back rooms tell a different story.",
+        "variant2": "A modern hospital full of gleaming diagnostic machines and beeping things. They could have run any test here; any experiment.",
+        "variant3": "A gothic institution, dozens of metal beds separated by moldy teal curtains. Side rooms host forgotten equipment, strange drugs pop underfoot."
+      },
+      {
+        "id": 18,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE1CE80C-DC19-11E9-AE25-86038ABD593F/location_background_20.png",
+        "key": "theMall",
+        "name": "The Mall",
+        "type": "City",
+        "variant1": "Unpretentiously, beige box mall. Mainstream retailers playing it safe. A bowling alley. The parking lot is still packed with cars, rusting.",
+        "variant2": "A palace of glass elevators, reflective walkways, boutiques, models staring from huge billboards. So clean the effect is kaleidoscopic. ",
+        "variant3": "A tented local market. Local farmers, souvenir vendors, local crafts. You could find anything here if you looked hard enough."
+      },
+      {
+        "id": 19,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEAF2ADC-DC19-11E9-B2D8-A5C0F4A73648/location_background_21.png",
+        "key": "theLibrary",
+        "name": "The Library",
+        "type": "City",
+        "variant1": "Oaken shelves loaded with ancient books—some locked shut—lit by dusty light shafts. Unnatural quiet. Vaults protect more ancient knowledge.",
+        "variant2": "As much community center as library. Bulky CRT monitors. A soup kitchen. Leaflets for flu shots. File cabinets hold the neighborhood’s story.",
+        "variant3": "A modernist “knowledge hub” with more glowing computer screens than books. Edgy architecture. Glass. Metal. Bright colors. "
+      },
+      {
+        "id": 20,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE7E865C-DC19-11E9-AE25-85038ABD593F/location_background_22.png",
+        "key": "theSubway",
+        "name": "The Subway",
+        "type": "City",
+        "variant1": "Gritty, tiled and claustrophobic. Low ceilings hang rusting signage over overflowing trash cans. Next train: “Delayed”. The tunnels beckon.",
+        "variant2": "The underground crown jewel. Palatial vaulted ceilings of marble and gold. Ornate art-deco trains. A monument in which you feel tiny.",
+        "variant3": "Automated shuttle, still eerily running. Plexiglass doors and electric transit cars now follow their own schedule."
+      },
+      {
+        "id": 21,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE9689F0-DC19-11E9-B2D8-A3C0F4A73648/location_background_23.png",
+        "key": "theSewers",
+        "name": "The Sewers",
+        "type": "City",
+        "variant1": "A disgusting, fetid labyrinth. Things that normally live here got bigger, carving out earthen lairs. Grime and shit fill every corner",
+        "variant2": "A gothic undercity where old things lie, best undisturbed. Gargoyles, surprisingly elegant bridges, storerooms often blocked by iron bars. ",
+        "variant3": "A vaulting concrete space where the underground river enters an industrial water treatment plant bursting with machines and piping. "
+      },
+      {
+        "id": 22,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/ADD63844-DC19-11E9-AE25-6F038ABD593F/location_background_24.png",
+        "key": "theBureau",
+        "name": "The Bureau",
+        "type": "City",
+        "variant1": "A windowless concrete building. Millions of pages of government records rot inside locked offices, surrounded by an endless cubicle farm",
+        "variant2": "An infamous white elephant. Marble columns, vaulting ceilings, and mahogany paneling give false elegance to a mayor's extravagance. ",
+        "variant3": "The local DMV. CRT monitors, rows of uncomfortable seats for waiting. Strange gaps in the thick dust implies some are still trying to work."
+      },
+      {
+        "id": 23,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD3DD00E-DC19-11E9-B2D8-90C0F4A73648/location_background_1.png",
+        "key": "theApartments",
+        "name": "The Apartments",
+        "type": "City",
+        "variant1": "A concrete tower block, cramped apartments in various states of disrepair. Some are blasted open. Others are locked, and sound occupied.",
+        "variant2": "A luxurious condominium tower. The private and rich owned its penthouses, rarely needing the street level. Perhaps they are still there.",
+        "variant3": "A converted townhouse, awkwardly split into asymmetric apartments. Rooms suddenly end at strange angles. Many doors lead nowhere."
+      },
+      {
+        "id": 24,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE452BB4-DC19-11E9-AE25-91038ABD593F/location_background_2.png",
+        "key": "theSuburbs",
+        "name": "The Suburbs",
+        "type": "City",
+        "variant1": "A luxurious walled community with an ornate gate. An all inclusive, gilded fortress for the reclusive misers who could afford it. ",
+        "variant2": "A lowkey suburb. Cul de sacs, plastic basketball hoops, backyard barbecues, cars still in driveways. People knew their neighbors here, once. ",
+        "variant3": "Derelict suburban sprawl. Half boarded up houses and vacant, trash covered lots. Vermin peek out. Perhaps other creatures do too."
+      },
+      {
+        "id": 25,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEB051A0-DC19-11E9-B2D8-96C0F4A73648/location_background_3.png",
+        "key": "theOffice",
+        "name": "The Office",
+        "type": "City",
+        "variant1": "Endless cubicles stretch to endlessly, paper everywhere. Family portraits and motivational posters look sickly under the fluorescent flicker..",
+        "variant2": "A playful, colorful place, so hip it reminds of a luxury kindergarten. Post-its. A lone Bluetooth headset. Whiteboards full of brainstorms.",
+        "variant3": "Charts cover walls, and data still streams into specialized displays. Scientific instruments hum. Whatever they tracked here, it was important."
+      },
+      {
+        "id": 26,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE7C58FA-DC19-11E9-AE25-95038ABD593F/location_background_4.png",
+        "key": "theMuseum",
+        "name": "The Museum",
+        "type": "City",
+        "variant1": "A sweeping natural history museum. Dioramas so realistic they seem alive. Strange minerals and fossils. A colossal skeleton dominates the atrium.",
+        "variant2": "The art museum. Stolen artifacts and old paintings whose eyes seem to, follow. In a different gallery, modern art makes the mind spin.",
+        "variant3": "An oddball specialty museum. where an obsessive private collector hoarded an emporium of… things. Why did they mean so much to this person?"
+      },
+      {
+        "id": 27,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEAB7310-DC19-11E9-B2D8-A8C0F4A73648/location_background_5.png",
+        "key": "theZoo",
+        "name": "The Zoo",
+        "type": "City",
+        "variant1": "A traditional zoo, with enclosures that attempted to fake natural biomes, now wildly overgrown and unnaturally merging with each other.",
+        "variant2": "A free roaming safari with animals recklessly imported from everywhere. Rusted jeeps, a tattered visitor center, a ruined gift shop.",
+        "variant3": "A well stocked aquarium, themed exhibits weaving around an enormous central tank. Life shimmers in the water. In the blue dark, you feel watched."
+      },
+      {
+        "id": 28,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE12E79E-DC19-11E9-AE25-87038ABD593F/location_background_6.png",
+        "key": "theTheater",
+        "name": "The Theater",
+        "type": "City",
+        "variant1": "A soaring opera house, beautiful ceilings that vaulted above tuxedos and evening dresses. Standing on stage, you can almost hear the audience.",
+        "variant2": "A gloomy multiplex, surfaces sticky with what you hope is just popcorn and soda. It sounds like movies are playing.",
+        "variant3": "A local theater known for its oddball curator. The auditorium may be tiny, but archives of old 16mm reels stack high in the sprawling basement."
+      }
+    ],
+    "notSoEasy": [
+      {
+        "id": 0,
+        "intro": true,
+        "mutation": true,
+        "ordered": true,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you in a small but noticeable way",
+        "tutorial": true
+      },
+      {
+        "id": 1,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+        "tutorial": false
+      },
+      {
+        "id": 2,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...you have to reveal something about your character's past to succeed",
+        "tutorial": false
+      },
+      {
+        "id": 3,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+        "tutorial": false
+      },
+      {
+        "id": 4,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...your success has a dangerous unintended consequence for the entire expedition",
+        "tutorial": false
+      },
+      {
+        "id": 5,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...this isn't something you can do alone. Help is needed from the other characters, or from a local",
+        "tutorial": false
+      },
+      {
+        "id": 6,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...if you want this done, someone more suited to the task must do it. Help is needed from the other characters, or from a local",
+        "tutorial": false
+      },
+      {
+        "id": 7,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...your failure has unexpected positive consequences",
+        "tutorial": false
+      },
+      {
+        "id": 8,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...your failure brings you closer to another character. If you're the last alive, describe a flashback or an apparition",
+        "tutorial": false
+      },
+      {
+        "id": 9,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you in a helpful way",
+        "tutorial": false
+      },
+      {
+        "id": 10,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you, granting you a powerful “gift” the others simply wouldn't understand",
+        "tutorial": false
+      },
+      {
+        "id": 11,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you. If you're not alone, someone else is mutated even worse",
+        "tutorial": false
+      },
+      {
+        "id": 12,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you in a way that can be hidden from the others",
+        "tutorial": false
+      },
+      {
+        "id": 13,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you in a shocking way. It's the only reason you succeed",
+        "tutorial": false
+      },
+      {
+        "id": 14,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+        "tutorial": false
+      },
+      {
+        "id": 15,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+        "tutorial": false
+      },
+      {
+        "id": 16,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you. You feel it asking you what you've long wanted. It gives it to you",
+        "tutorial": false
+      },
+      {
+        "id": 17,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you, giving you an unexpected ability",
+        "tutorial": false
+      },
+      {
+        "id": 18,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you, granting a \"gift\" that may be helpful in the future",
+        "tutorial": false
+      },
+      {
+        "id": 19,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers your phobia",
+        "tutorial": false
+      },
+      {
+        "id": 20,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers your obsession",
+        "tutorial": false
+      },
+      {
+        "id": 21,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers someone else's phobia. If no one else is left, it triggers yours",
+        "tutorial": false
+      },
+      {
+        "id": 22,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers someone else's obsession. If no one else is left, it triggers yours",
+        "tutorial": false
+      },
+      {
+        "id": 23,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you, creating much more serious problem which must be immediately dealt with",
+        "tutorial": false
+      },
+      {
+        "id": 24,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you, causing an extreme loss of humanity",
+        "tutorial": false
+      },
+      {
+        "id": 25,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* everyone in the expedition!",
+        "tutorial": false
+      },
+      {
+        "id": 26,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* both you and your obstacle, escalating the conflict",
+        "tutorial": false
+      }
+    ],
+    "scenes": [
+      {
+        "back": "START (1/3)",
+        "id": 0,
+        "intro": true,
+        "ordered": true,
+        "prompt": "The night before, everyone shares *rumors*",
+        "questions": [
+          "What strange animals or plants have been spotted?",
+          "What weird anomalous artifacts are people talking about?",
+          "What's rumored about the previous expeditions?"
+        ],
+        "sub_1": "What strange animals or plants have been spotted?",
+        "sub_2": "What weird anomalous artifacts are people talking about?",
+        "sub_3": "What's rumored about the previous expeditions?",
+        "tutorial": true,
+        "type": "INTRO"
+      },
+      {
+        "ordered": true,
+        "prompt": "The expedition sees The Boundary for the first time (but does not cross yet)",
+        "questions": [
+          "What does it look like? ",
+          "What does everyone see and feel? (use TAKE STOCK to answer this)",
+          "End scene before entering The Boundary. You will do that in the next scene"
+        ],
+        "type": "TUTORIAL (1/3)"
+      },
+      {
+        "ordered": true,
+        "prompt": "The expedition starts to cross The Boundary, but something's not right ",
+        "questions": [
+          "Something's not right, what is it?",
+          "End scene before leaving The Boundary (that will happen in the next one)"
+        ],
+        "type": "TUTORIAL (2/3)"
+      },
+      {
+        "ordered": true,
+        "prompt": "There is one final obstacle before making it into The Zone",
+        "questions": [
+          "Why is it Not So Easy to make it through the inner side of The Boundary and enter The Zone?",
+          "(You can use Take Stock and Something's Not Right to help set this up, if needed)"
+        ],
+        "type": "TUTORIAL (3/3)"
+      },
+      {
+        "back": "",
+        "id": 4,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A beast poses a terrible threat to the expedition",
+        "questions": [
+          "What makes the beast such a threat?",
+          "Why do you have to confront it?",
+          ""
+        ],
+        "sub_1": "What makes the beast such a threat?",
+        "sub_2": "Why do you have to confront it?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 5,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Tempted by an intelligent, impossibly beautiful creature",
+        "questions": [
+          "What is the beauty of this creature in your eyes?",
+          "Whose obsession does the creature try to tempt with, and how?",
+          ""
+        ],
+        "sub_1": "What is the beauty of this creature in your eyes?",
+        "sub_2": "Whose obsession does the creature try to tempt with, and how?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 6,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You meet a creature that knows one of you",
+        "questions": [
+          "Who does the creature know, and how?",
+          "What does this relationship mean for the expedition?",
+          ""
+        ],
+        "sub_1": "Who does the creature know, and how?",
+        "sub_2": "What does this relationship mean for the expedition?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 7,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A creature presents a character with an irresistible temptation",
+        "questions": [
+          "What is this creature like?",
+          "Whose obsession does the creature try to tempt with, and how?",
+          ""
+        ],
+        "sub_1": "What is this creature like?",
+        "sub_2": "Whose obsession does the creature try to tempt with, and how?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 8,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something dead delivers a message",
+        "questions": [
+          "How is the message delivered?",
+          "What is the impact of this message—or the messenger? ",
+          ""
+        ],
+        "sub_1": "How is the message delivered?",
+        "sub_2": "What is the impact of this message—or the messenger? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 9,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A creature creates a terrible moral conundrum",
+        "questions": [
+          "What choice is presented to the expedition?",
+          "What makes this conundrum so tough for someone in the expedition?",
+          ""
+        ],
+        "sub_1": "What choice is presented to the expedition?",
+        "sub_2": "What makes this conundrum so tough for someone in the expedition?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 10,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a helpful creature that lives here",
+        "questions": [
+          "How do you know this creature is helpful?",
+          "What does it want in exchange for its help?",
+          ""
+        ],
+        "sub_1": "How do you know this creature is helpful?",
+        "sub_2": "What does it want in exchange for its help?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 11,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a “survivor” of the previous expedition",
+        "questions": [
+          "What is left of the \"survivor\"?",
+          "What does the survivor want from you? Why is this not easy to give?",
+          ""
+        ],
+        "sub_1": "What is left of the \"survivor\"?",
+        "sub_2": "What does the survivor want from you? Why is this not easy to give?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 12,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Encounter a vision of something that used to be here",
+        "questions": [
+          "How does this vision appear to you?",
+          "What makes the thing that used to be here so surprising?",
+          ""
+        ],
+        "sub_1": "How does this vision appear to you?",
+        "sub_2": "What makes the thing that used to be here so surprising?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 13,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Encounter a vision of something that used to be here, triggering a phobia",
+        "questions": [
+          "Whose phobia does this vision embody? How?",
+          "How does that person react to the appearance of their phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia does this vision embody? How?",
+        "sub_2": "How does that person react to the appearance of their phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 14,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment itself seems to take sides against the expedition",
+        "questions": [
+          "How does the environment manifest this obstacle?",
+          "What were you trying to do before you were blocked?",
+          ""
+        ],
+        "sub_1": "How does the environment manifest this obstacle?",
+        "sub_2": "What were you trying to do before you were blocked?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 15,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment itself does something to help a character succeed",
+        "questions": [
+          "How does the environment manifest this help?",
+          "What were you trying to do before you were helped? Why were you failing?",
+          ""
+        ],
+        "sub_1": "How does the environment manifest this help?",
+        "sub_2": "What were you trying to do before you were helped? Why were you failing?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 16,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Meet a creature that embodies a character's phobia",
+        "questions": [
+          "How does this creature know your deepest Phobias?",
+          "What about your phobia did you think THE ZONE could never know?",
+          ""
+        ],
+        "sub_1": "How does this creature know your deepest Phobias?",
+        "sub_2": "What about your phobia did you think THE ZONE could never know?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 17,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment triggers a character's phobia",
+        "questions": [
+          "Whose Phobia can the environment most effectively manifest?",
+          "How do you walk right into it?",
+          ""
+        ],
+        "sub_1": "Whose Phobia can the environment most effectively manifest?",
+        "sub_2": "How do you walk right into it?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 18,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Take a very risky shortcut",
+        "questions": [
+          "Why do you need to take a shortcut?",
+          "What makes the shortcut so risky?",
+          ""
+        ],
+        "sub_1": "Why do you need to take a shortcut?",
+        "sub_2": "What makes the shortcut so risky?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 19,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Unexpected beauty causes someone to stray towards their obsession",
+        "questions": [
+          "Whose obsession is involved in this scene?",
+          "How does this unexpected beauty ensnare you?",
+          ""
+        ],
+        "sub_1": "Whose obsession is involved in this scene?",
+        "sub_2": "How does this unexpected beauty ensnare you?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 20,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Remains reveal something horrific about the previous expedition",
+        "questions": [
+          "What is implied about the previous expedition?",
+          "Whose feeling about the expedition is changed by this?",
+          ""
+        ],
+        "sub_1": "What is implied about the previous expedition?",
+        "sub_2": "Whose feeling about the expedition is changed by this?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 21,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Meet a creature that seems to have the same obsession",
+        "questions": [
+          "Whose obsession does this creature seem to share?",
+          "Is it for real? How do you find out?",
+          ""
+        ],
+        "sub_1": "Whose obsession does this creature seem to share?",
+        "sub_2": "Is it for real? How do you find out?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 22,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone discovers a mutation that endangers the group",
+        "questions": [
+          "Who is most likely to harbour a dangerous mutation?",
+          "What does the group do to try to be safe from this mutation?",
+          ""
+        ],
+        "sub_1": "Who is most likely to harbour a dangerous mutation?",
+        "sub_2": "What does the group do to try to be safe from this mutation?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 23,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to develop a new mental or physical power by taking a big risk",
+        "questions": [
+          "Who most wants power?",
+          "What do you try to sacrifice to THE ZONE in exchange for this power?",
+          ""
+        ],
+        "sub_1": "Who most wants power?",
+        "sub_2": "What do you try to sacrifice to THE ZONE in exchange for this power?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 24,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone encounters their phobia",
+        "questions": [
+          "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+          "Why must you face this phobia right now?",
+          ""
+        ],
+        "sub_1": "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+        "sub_2": "Why must you face this phobia right now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 25,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something helps a character see the true potential of a mutation",
+        "questions": [
+          "What mutation—in a character, or around you—have you only scratched the surface of?",
+          "What if this mutation was ten times stronger?",
+          ""
+        ],
+        "sub_1": "What mutation—in a character, or around you—have you only scratched the surface of?",
+        "sub_2": "What if this mutation was ten times stronger?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 26,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone’s past catches up with them",
+        "questions": [
+          "Whose past wants to emerge in this scene? How does it?",
+          "Why were you running from this memory?",
+          ""
+        ],
+        "sub_1": "Whose past wants to emerge in this scene? How does it?",
+        "sub_2": "Why were you running from this memory?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 27,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone pursues their obsession, with serious consequences",
+        "questions": [
+          "Why can you no longer control your obsession?",
+          "What's the worst that could happen if you succeed? What about if you fail?",
+          ""
+        ],
+        "sub_1": "Why can you no longer control your obsession?",
+        "sub_2": "What's the worst that could happen if you succeed? What about if you fail?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 28,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone desperately tries to get rid of a mutation",
+        "questions": [
+          "Who, and why now? What will happen if they don't succeed?",
+          "How do you (try to) get rid of a mutation?",
+          ""
+        ],
+        "sub_1": "Who, and why now? What will happen if they don't succeed?",
+        "sub_2": "How do you (try to) get rid of a mutation?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 29,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone thinks they've found a way to accomplish their Obsession",
+        "questions": [
+          "Who is most desperate to achieve their Obsession right now?",
+          "Why do they think there's a way right now? Why is this a lie?",
+          ""
+        ],
+        "sub_1": "Who is most desperate to achieve their Obsession right now?",
+        "sub_2": "Why do they think there's a way right now? Why is this a lie?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 30,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Multiple obsessions threaten to split the party",
+        "questions": [
+          "Whose obsessions are most in conflict?",
+          "What makes that conflict suddenly ten times worse?",
+          ""
+        ],
+        "sub_1": "Whose obsessions are most in conflict?",
+        "sub_2": "What makes that conflict suddenly ten times worse?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 31,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to curry favor with another",
+        "questions": [
+          "Who most wants something from another? ",
+          "What will you give for it? Equipment? Secrets? Powers? ",
+          ""
+        ],
+        "sub_1": "Who most wants something from another? ",
+        "sub_2": "What will you give for it? Equipment? Secrets? Powers? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 32,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone attempts to persuade another to abandon the mission",
+        "questions": [
+          "Who would want someone off the mission?",
+          "Why now?",
+          ""
+        ],
+        "sub_1": "Who would want someone off the mission?",
+        "sub_2": "Why now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 33,
+        "intro": false,
+        "ordered": false,
+        "prompt": "An alliance is formed",
+        "questions": [
+          "Which two characters need each other the most?",
+          "What makes their partnership difficult?",
+          ""
+        ],
+        "sub_1": "Which two characters need each other the most?",
+        "sub_2": "What makes their partnership difficult?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 34,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to keep a secret",
+        "questions": [
+          "What secret must absolutely not be revealed?",
+          "What's happening right now to force this secret out into the open?",
+          ""
+        ],
+        "sub_1": "What secret must absolutely not be revealed?",
+        "sub_2": "What's happening right now to force this secret out into the open?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 35,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The expedition learns something about a character that changes everything",
+        "questions": [
+          "What did you have to hide to be accepted by the others?",
+          "Why did you believe it was necessary?",
+          ""
+        ],
+        "sub_1": "What did you have to hide to be accepted by the others?",
+        "sub_2": "Why did you believe it was necessary?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 36,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something horrific is revealed by one of you about the previous expedition",
+        "questions": [
+          "Why did the others need to be protected from this truth?",
+          "Why did you know it? Why reveal it now?",
+          ""
+        ],
+        "sub_1": "Why did the others need to be protected from this truth?",
+        "sub_2": "Why did you know it? Why reveal it now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 37,
+        "intro": false,
+        "ordered": false,
+        "prompt": "There is a betrayal",
+        "questions": [
+          "Who would be hurt most by a betrayal?",
+          "What feels necessary about this betrayal?",
+          ""
+        ],
+        "sub_1": "Who would be hurt most by a betrayal?",
+        "sub_2": "What feels necessary about this betrayal?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 38,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to hide a physical mutation that threatens everyone",
+        "questions": [
+          "Whose mutation could harm everyone if it were ten times worse?",
+          "Why are you certain that it must be hidden from the rest?",
+          ""
+        ],
+        "sub_1": "Whose mutation could harm everyone if it were ten times worse?",
+        "sub_2": "Why are you certain that it must be hidden from the rest?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 39,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to break away on their own",
+        "questions": [
+          "What can one of you only do alone?",
+          "Why would the rest of them not let you?",
+          ""
+        ],
+        "sub_1": "What can one of you only do alone?",
+        "sub_2": "Why would the rest of them not let you?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 40,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a powerful anomaly",
+        "questions": [
+          "What makes this anomaly powerful?",
+          "How does this power trigger your obsession?",
+          ""
+        ],
+        "sub_1": "What makes this anomaly powerful?",
+        "sub_2": "How does this power trigger your obsession?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 41,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You stumble on anomalies that block your way",
+        "questions": [
+          "How do you know these anomalies will block your way?",
+          "What is the cost of progression?",
+          ""
+        ],
+        "sub_1": "How do you know these anomalies will block your way?",
+        "sub_2": "What is the cost of progression?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 42,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone discovers an anomaly, and tries to hide it from the others",
+        "questions": [
+          "Why does only one of you see this anomaly?",
+          "What makes the anomaly worth hiding?",
+          ""
+        ],
+        "sub_1": "Why does only one of you see this anomaly?",
+        "sub_2": "What makes the anomaly worth hiding?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 43,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone strays because of an anomaly",
+        "questions": [
+          "How does the anomaly create a different path?",
+          "Why is this path irresistible? ",
+          ""
+        ],
+        "sub_1": "How does the anomaly create a different path?",
+        "sub_2": "Why is this path irresistible? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 44,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter an incredibly dangerous anomaly",
+        "questions": [
+          "What makes this anomaly dangerous?",
+          "Why must you go through it anyway?",
+          ""
+        ],
+        "sub_1": "What makes this anomaly dangerous?",
+        "sub_2": "Why must you go through it anyway?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 45,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly holds a way for someone to get their obsession",
+        "questions": [
+          "How does this anomaly manifest your obsession?",
+          "What must the anomaly take from you in exchange?",
+          ""
+        ],
+        "sub_1": "How does this anomaly manifest your obsession?",
+        "sub_2": "What must the anomaly take from you in exchange?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 46,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly holds a way for someone to avoid their phobia",
+        "questions": [
+          "Whose phobia? How does this anomaly help you avoid it?",
+          "Why is the anomaly's life threatening danger still better than your phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia? How does this anomaly help you avoid it?",
+        "sub_2": "Why is the anomaly's life threatening danger still better than your phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 47,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly triggers someone's phobia",
+        "questions": [
+          "Whose phobia? Why is this anomaly the worst version of your phobia?",
+          "How does the anomaly force you to confront your phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia? Why is this anomaly the worst version of your phobia?",
+        "sub_2": "How does the anomaly force you to confront your phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      }
+    ],
+    "setup": {
+      "boundaryName": {
+        "key": "boundaryName",
+        "value": "The Boundary"
+      },
+      "briefingPart1": {
+        "key": "briefingPart1",
+        "value": "Welcome, volunteers. I know you've all been wondering what **The Zone** really is, and if the rumors are true. As the 14th expedition, you deserve to know what we know. It's not a lot. But it may help you.\n\nIt all started with the **anomalies**. Locals calling in to talk radio or visiting their doctors with stories of unseasonal weather; impossible objects; half-sightings of unknown creatures; claimed conversations with long dead loved ones. People disappeared. Medical notes describe bodies that started... changing.\n\nWe initiated special containment procedures. Performed tests on those who refused to evacuate. Then, as if reacting to our attention, **The Boundary** appeared and isolated everything and everyone within an area of several square miles. We don’t know if there are still survivors. Or if they're still human.\n\n**Since that moment, not a single expedition has returned.** All lose contact minutes after leaving visual range. We're going on fragments, rumors, and occasional anomalies that seep beyond The Boundary.\n\nWe don’t know what The Zone wants—or *if* it wants. It seems to be a mirror. **It manifests whatever Phobias, Obsessions, and Memories you bring into it.** The Zone brings them to life to test you.\n\nThere are rumors that The Zone can **grant your deepest Wish** if it deems you worthy. Sensor readings show something incredibly powerful at its heart. Perhaps the only escape is the **The Center** itself.\n\nYou are the 14th Expedition. You will almost certainly not return. Good hunting. But prepare to die. The Federal Bureau of Coherence, without admitting liability, thanks you for accepting this mission.\n\n*END MISSION BRIEFING*"
+      },
+      "campfireName": {
+        "key": "campfireName",
+        "value": "The Campfire"
+      },
+      "centerName": {
+        "key": "centerName",
+        "value": "The Center"
+      },
+      "centerText": {
+        "key": "centerText",
+        "value": "The lone survivor has made it to the legendary center of The Zone. First, define The Center together. Is it... \n\n**Staggering beauty**\n\n**Incomprehensible horror**\n\n**Alien strangeness**\n\n...or something else"
+      },
+      "emote": {
+        "key": "emote",
+        "value": "❤️"
+      },
+      "modDescription": {
+        "key": "modDescription",
+        "value": "This is the base content for The Zone. It's exactly the same as what ships with the game by default"
+      },
+      "modUrl": {
+        "key": "modUrl",
+        "value": "default"
+      },
+      "operationNameGenerator": {
+        "key": "operationNameGenerator",
+        "value": [
+          ["Operation"],
+          [
+            "Electric",
+            "Crimson",
+            "Blue",
+            "Grey",
+            "Sordid",
+            "Cordial",
+            "Gamma",
+            "God",
+            "Thor's",
+            "Millenium"
+          ],
+          [
+            "Dynamo",
+            "Glow",
+            "Elephant",
+            "Rabbit",
+            "Foot",
+            "Hostage",
+            "Prism",
+            "Pulsar",
+            "Rhino",
+            "Worm",
+            "Particle",
+            "Zinc"
+          ]
+        ]
+      },
+      "startLocationKey": {
+        "key": "startLocationKey",
+        "value": "startLocation"
+      },
+      "wishName": {
+        "key": "wishName",
+        "value": "Wish"
+      },
+      "zoneName": {
+        "key": "zoneName",
+        "value": "The Zone"
+      }
+    }
+  },
+  "currentSequenceIndex": 34,
+  "dateCompleted": 1638852995278,
+  "dateCreated": 1638842671222,
+  "dateStarted": 1638842823464,
+  "debug": false,
+  "fancyNewThing": "12312312312",
+  "finalWish": "NOT_CHOSEN",
+  "firstLocationIndex": 15,
+  "gameId": "GLR3P",
+  "interrupt": "NO_INTERRUPT",
+  "judgementState": "NOT_ENCOUNTERED",
+  "lastChoice": "1",
+  "lastChoicePlayer": "LFVWR",
+  "lastNotSoEasyPlayer": "ZNIHK",
+  "lastTurnPlayer": "ZNIHK",
+  "localhostEvents": 0,
+  "notSoEasyDeck": {
+    "cards": [
+      {
+        "id": 0,
+        "intro": true,
+        "mutation": true,
+        "ordered": true,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you in a small but noticeable way",
+        "tutorial": true
+      },
+      {
+        "id": 2,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...you have to reveal something about your character's past to succeed",
+        "tutorial": false
+      },
+      {
+        "id": 15,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+        "tutorial": false
+      },
+      {
+        "id": 21,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers someone else's phobia. If no one else is left, it triggers yours",
+        "tutorial": false
+      },
+      {
+        "id": 9,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you in a helpful way",
+        "tutorial": false
+      },
+      {
+        "id": 18,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you, granting a \"gift\" that may be helpful in the future",
+        "tutorial": false
+      },
+      {
+        "id": 6,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...if you want this done, someone more suited to the task must do it. Help is needed from the other characters, or from a local",
+        "tutorial": false
+      },
+      {
+        "id": 22,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers someone else's obsession. If no one else is left, it triggers yours",
+        "tutorial": false
+      },
+      {
+        "id": 12,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you in a way that can be hidden from the others",
+        "tutorial": false
+      },
+      {
+        "id": 20,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers your obsession",
+        "tutorial": false
+      },
+      {
+        "id": 13,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you in a shocking way. It's the only reason you succeed",
+        "tutorial": false
+      },
+      {
+        "id": 8,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...your failure brings you closer to another character. If you're the last alive, describe a flashback or an apparition",
+        "tutorial": false
+      },
+      {
+        "id": 5,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...this isn't something you can do alone. Help is needed from the other characters, or from a local",
+        "tutorial": false
+      },
+      {
+        "id": 26,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* both you and your obstacle, escalating the conflict",
+        "tutorial": false
+      },
+      {
+        "id": 19,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers your phobia",
+        "tutorial": false
+      },
+      {
+        "id": 3,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+        "tutorial": false
+      },
+      {
+        "id": 10,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you, granting you a powerful “gift” the others simply wouldn't understand",
+        "tutorial": false
+      },
+      {
+        "id": 7,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...your failure has unexpected positive consequences",
+        "tutorial": false
+      },
+      {
+        "id": 1,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+        "tutorial": false
+      },
+      {
+        "id": 4,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...your success has a dangerous unintended consequence for the entire expedition",
+        "tutorial": false
+      },
+      {
+        "id": 11,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you. If you're not alone, someone else is mutated even worse",
+        "tutorial": false
+      },
+      {
+        "id": 16,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you. You feel it asking you what you've long wanted. It gives it to you",
+        "tutorial": false
+      },
+      {
+        "id": 17,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you, giving you an unexpected ability",
+        "tutorial": false
+      },
+      {
+        "id": 23,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you, creating much more serious problem which must be immediately dealt with",
+        "tutorial": false
+      },
+      {
+        "id": 25,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* everyone in the expedition!",
+        "tutorial": false
+      },
+      {
+        "id": 14,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+        "tutorial": false
+      },
+      {
+        "id": 24,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you, causing an extreme loss of humanity",
+        "tutorial": false
+      }
+    ],
+    "currentIndex": 17,
+    "orderedCards": [
+      {
+        "id": 0,
+        "intro": true,
+        "mutation": true,
+        "ordered": true,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you in a small but noticeable way",
+        "tutorial": true
+      }
+    ],
+    "unorderedCards": [
+      {
+        "id": 2,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...you have to reveal something about your character's past to succeed",
+        "tutorial": false
+      },
+      {
+        "id": 15,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+        "tutorial": false
+      },
+      {
+        "id": 21,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers someone else's phobia. If no one else is left, it triggers yours",
+        "tutorial": false
+      },
+      {
+        "id": 9,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you in a helpful way",
+        "tutorial": false
+      },
+      {
+        "id": 18,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you, granting a \"gift\" that may be helpful in the future",
+        "tutorial": false
+      },
+      {
+        "id": 6,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...if you want this done, someone more suited to the task must do it. Help is needed from the other characters, or from a local",
+        "tutorial": false
+      },
+      {
+        "id": 22,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers someone else's obsession. If no one else is left, it triggers yours",
+        "tutorial": false
+      },
+      {
+        "id": 12,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you in a way that can be hidden from the others",
+        "tutorial": false
+      },
+      {
+        "id": 20,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers your obsession",
+        "tutorial": false
+      },
+      {
+        "id": 13,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you in a shocking way. It's the only reason you succeed",
+        "tutorial": false
+      },
+      {
+        "id": 8,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...your failure brings you closer to another character. If you're the last alive, describe a flashback or an apparition",
+        "tutorial": false
+      },
+      {
+        "id": 5,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...this isn't something you can do alone. Help is needed from the other characters, or from a local",
+        "tutorial": false
+      },
+      {
+        "id": 26,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* both you and your obstacle, escalating the conflict",
+        "tutorial": false
+      },
+      {
+        "id": 19,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you in a way that triggers your phobia",
+        "tutorial": false
+      },
+      {
+        "id": 3,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+        "tutorial": false
+      },
+      {
+        "id": 10,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, AND",
+        "prompt": "...The Zone *mutates* you, granting you a powerful “gift” the others simply wouldn't understand",
+        "tutorial": false
+      },
+      {
+        "id": 7,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...your failure has unexpected positive consequences",
+        "tutorial": false
+      },
+      {
+        "id": 1,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+        "tutorial": false
+      },
+      {
+        "id": 4,
+        "intro": false,
+        "mutation": false,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...your success has a dangerous unintended consequence for the entire expedition",
+        "tutorial": false
+      },
+      {
+        "id": 11,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you. If you're not alone, someone else is mutated even worse",
+        "tutorial": false
+      },
+      {
+        "id": 16,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you. You feel it asking you what you've long wanted. It gives it to you",
+        "tutorial": false
+      },
+      {
+        "id": 17,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, BUT",
+        "prompt": "...The Zone *mutates* you, giving you an unexpected ability",
+        "tutorial": false
+      },
+      {
+        "id": 23,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you, creating much more serious problem which must be immediately dealt with",
+        "tutorial": false
+      },
+      {
+        "id": 25,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* everyone in the expedition!",
+        "tutorial": false
+      },
+      {
+        "id": 14,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "YES, BUT",
+        "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+        "tutorial": false
+      },
+      {
+        "id": 24,
+        "intro": false,
+        "mutation": true,
+        "ordered": false,
+        "outcome": "NO, AND",
+        "prompt": "...The Zone *mutates* you, causing an extreme loss of humanity",
+        "tutorial": false
+      }
+    ]
+  },
+  "operationName": "Operation God Dynamo ",
+  "players": {
+    "8SU3J": {
+      "alive": false,
+      "character": {
+        "archetype": "Chaplain",
+        "backstory": "You were a army Chaplain, strong in your faith even amidst the grim horrors of war. On your return, you dutifully built a cozy and devoted congregation, even as your own faith started to unravel. When you were drafted by powerful organizations who believe THE ZONE is divine, you could not say no.\n\nYOUR ROLE: Protect Everyone's Humanity\n▸ Notice Moral Dilemmas\n▸ Highlight The Limits Of Science\n▸ Check In On People’s Souls\n      ",
+        "brokenLife": "because nothing exists to go home to anyways.",
+        "name": "DR. Ambrosia Gabriel",
+        "obsession": "FAITH: Can you hear the voice of god again?",
+        "phobia": "THE WRONG PLAN: There is a plan, but you followed the wrong one"
+      },
+      "deathTime": 1638850894452,
+      "doneChoosingCharacter": true,
+      "fateSequence": "location4",
+      "id": "8SU3J",
+      "name": "Halo sh/er",
+      "notSoEasyCount": 0,
+      "playerJudgement": "NO_JUDGEMENT",
+      "playerJudgementConfirmed": false,
+      "status": "offline",
+      "status_last_changed": 1638853712569
+    },
+    "J6S8A": {
+      "alive": false,
+      "character": {
+        "archetype": "Scientist",
+        "backstory": "You’re a distinguished scientist, responsible for a number of key breakthroughs in your prolific early career. But you’ve followed your theories to more “creative” fringes and the academic field you once dominated has now rejected you as a fraud and a huckster.\n\nYOUR ROLE: Understand and Explain The Zone\n▸ Come Up With Scientific Theories\n▸ Try To Understand and Explain\n▸ Take Samples. Lots of Samples\n      ",
+        "brokenLife": "The Q-Anon followers who ruined the public's belief in science and truth. I tried to use the public sphere to bypass the overly scrutinous  scientific funding community and got \"lumped\" into conspiracy theory communities, with my theses being associated with broader theories about lasers from space, pizza parlour basements, etc.",
+        "name": "Dr. Septimus Geiger",
+        "obsession": "EVIDENCE: You need proof! Only then will they believe you!",
+        "phobia": "INCOMPETENCE: Maybe you don’t know what you’re doing"
+      },
+      "deathTime": 1638851645090,
+      "doneChoosingCharacter": true,
+      "fateSequence": "location5",
+      "id": "J6S8A",
+      "name": "Beth",
+      "notSoEasy": {
+        "-MqHwoc2I_zqBpdtKsf5": {
+          "claimedTime": 1638847957612,
+          "id": 18,
+          "intro": false,
+          "key": "-MqHwoc2I_zqBpdtKsf5",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "NO, BUT",
+          "playerId": "J6S8A",
+          "prompt": "...The Zone *mutates* you, granting a \"gift\" that may be helpful in the future",
+          "sequence": "location2",
+          "tutorial": false
+        },
+        "-MqI6KqfjEnT0VVZ9aUg": {
+          "claimedTime": 1638850715168,
+          "id": 13,
+          "intro": false,
+          "key": "-MqI6KqfjEnT0VVZ9aUg",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "J6S8A",
+          "prompt": "...The Zone *mutates* you in a shocking way. It's the only reason you succeed",
+          "sequence": "location4",
+          "tutorial": false
+        },
+        "-MqI8r5EjWYaYYyWyi63": {
+          "claimedTime": 1638851375628,
+          "id": 5,
+          "intro": false,
+          "key": "-MqI8r5EjWYaYYyWyi63",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "J6S8A",
+          "prompt": "...this isn't something you can do alone. Help is needed from the other characters, or from a local",
+          "sequence": "location5",
+          "tutorial": false
+        },
+        "-MqI9rBCxD3EPaQ2yGM1": {
+          "claimedTime": 1638851638149,
+          "id": 19,
+          "intro": false,
+          "key": "-MqI9rBCxD3EPaQ2yGM1",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "NO, AND",
+          "playerId": "J6S8A",
+          "prompt": "...The Zone *mutates* you in a way that triggers your phobia",
+          "sequence": "location5",
+          "tutorial": false
+        }
+      },
+      "notSoEasyCount": 0,
+      "playerJudgement": "YES_BUT",
+      "playerJudgementConfirmed": true,
+      "playerJudgementId": "NO_JUDGEMENT",
+      "status": "offline",
+      "status_last_changed": 1638853502506
+    },
+    "L796E": {
+      "alive": false,
+      "character": {
+        "archetype": "Chaplain",
+        "backstory": "You were a army Chaplain, strong in your faith even amidst the grim horrors of war. On your return, you dutifully built a cozy and devoted congregation, even as your own faith started to unravel. When you were drafted by powerful organizations who believe THE ZONE is divine, you could not say no.\n\nYOUR ROLE: Protect Everyone's Humanity\n▸ Notice Moral Dilemmas\n▸ Highlight The Limits Of Science\n▸ Check In On People’s Souls\n      ",
+        "brokenLife": "Is haunted by a horrible battle in her time in the army.  Her forces were pinned down and she made a decision that made her the sole survivor from it.  The weight of killing everyone weighs on her.  Then one day, after leaving the forces someone returned, someone she thought was dead from the squad she was trying to protect, but couldn't.",
+        "name": "Rev. Dr. Zoe Carcass MD",
+        "obsession": "CLEANSING: Can you ever forget the things you saw?",
+        "phobia": "HURT EVERYONE YOU TOUCH: Those souls are worse off"
+      },
+      "deathTime": 1638852524115,
+      "doneChoosingCharacter": true,
+      "fateSequence": "location6",
+      "id": "L796E",
+      "name": "Keith (they/them)",
+      "notSoEasy": {
+        "-MqHqsysvFWPWXdWkFiE": {
+          "claimedTime": 1638846402454,
+          "id": 0,
+          "intro": true,
+          "key": "-MqHqsysvFWPWXdWkFiE",
+          "mutation": true,
+          "ordered": true,
+          "outcome": "YES, AND",
+          "playerId": "L796E",
+          "prompt": "...The Zone *mutates* you in a small but noticeable way",
+          "sequence": "boundary",
+          "tutorial": true
+        },
+        "-MqHrgA86XfKQsmSq34k": {
+          "claimedTime": 1638846612130,
+          "id": 2,
+          "intro": false,
+          "key": "-MqHrgA86XfKQsmSq34k",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "L796E",
+          "prompt": "...you have to reveal something about your character's past to succeed",
+          "sequence": "boundary",
+          "tutorial": false
+        },
+        "-MqHtN_0_iFiYD4Rx99P": {
+          "claimedTime": 1638847056145,
+          "id": 15,
+          "intro": false,
+          "key": "-MqHtN_0_iFiYD4Rx99P",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "L796E",
+          "prompt": "...The Zone *mutates* you, triggering a much more serious challenge",
+          "sequence": "location1",
+          "tutorial": false
+        },
+        "-MqHw1D9K7F8OejM9URm": {
+          "claimedTime": 1638847750985,
+          "id": 9,
+          "intro": false,
+          "key": "-MqHw1D9K7F8OejM9URm",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "YES, AND",
+          "playerId": "L796E",
+          "prompt": "...The Zone *mutates* you in a helpful way",
+          "sequence": "location2",
+          "tutorial": false
+        },
+        "-MqI6wyOq77XxeFWhO0u": {
+          "claimedTime": 1638850875142,
+          "id": 8,
+          "intro": false,
+          "key": "-MqI6wyOq77XxeFWhO0u",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "NO, BUT",
+          "playerId": "L796E",
+          "prompt": "...your failure brings you closer to another character. If you're the last alive, describe a flashback or an apparition",
+          "sequence": "location4",
+          "tutorial": false
+        },
+        "-MqI6x0pZAt0_VRN4ySV": {
+          "claimedTime": 1638850875623,
+          "id": 8,
+          "intro": false,
+          "key": "-MqI6x0pZAt0_VRN4ySV",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "NO, BUT",
+          "playerId": "L796E",
+          "prompt": "...your failure brings you closer to another character. If you're the last alive, describe a flashback or an apparition",
+          "sequence": "location4",
+          "tutorial": false
+        },
+        "-MqI96kxXin743xTzq1g": {
+          "claimedTime": 1638851443614,
+          "id": 26,
+          "intro": false,
+          "key": "-MqI96kxXin743xTzq1g",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "NO, AND",
+          "playerId": "L796E",
+          "prompt": "...The Zone *mutates* both you and your obstacle, escalating the conflict",
+          "sequence": "location5",
+          "tutorial": false
+        },
+        "-MqIBxHczbZCCOOcQZdt": {
+          "claimedTime": 1638852187124,
+          "id": 10,
+          "intro": false,
+          "key": "-MqIBxHczbZCCOOcQZdt",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "YES, AND",
+          "playerId": "L796E",
+          "prompt": "...The Zone *mutates* you, granting you a powerful “gift” the others simply wouldn't understand",
+          "sequence": "location6",
+          "tutorial": false
+        }
+      },
+      "notSoEasyCount": 0,
+      "playerJudgement": "YES_BUT",
+      "playerJudgementConfirmed": true,
+      "playerJudgementId": "-MqHtN_0_iFiYD4Rx99P",
+      "status": "offline",
+      "status_last_changed": 1638853450730
+    },
+    "LFVWR": {
+      "alive": true,
+      "character": {
+        "archetype": "Writer",
+        "backstory": "A renowned talent with decades of award winning work on the international stage. But success takes its toll: you haven’t managed to write anything in over a fifteen years. You’ve tried everything, but it’s not working, and now even your fans are beginning to forget you. You cannot go out like this.\n\nYOUR ROLE: Tell The Story Of The Zone\n▸ It’s All About The Story\n▸ I Can Speak With The “Other”\n▸ It’s About Being Remembered\n      ",
+        "brokenLife": "After being kicked out of the Importance of Being Earnest festival in Key West (annual Hemingway look alike convention) for being drunk and yelling at a chandelier, Edgar reflected on his diet of oysters and copious amounts of alcohol. He decided to return to his roots, and see if he could find grandpa Swaggerbosh's diary. He is chronicling his adventure for his neighborhood newspaper 'The Higgin's Owl'.",
+        "name": "Edgar Swaggerbosh",
+        "obsession": "ANSWERS: Your lost family was from here.",
+        "phobia": "IRRELEVANCE: Ceasing to be unique. Being forgotten."
+      },
+      "doneChoosingCharacter": true,
+      "fateSequence": "center1",
+      "id": "LFVWR",
+      "name": "Beef Lourde",
+      "notSoEasyCount": 0,
+      "playerJudgement": "NO_JUDGEMENT",
+      "playerJudgementConfirmed": false,
+      "status": "online",
+      "status_last_changed": 1638854573471
+    },
+    "ZNIHK": {
+      "alive": false,
+      "character": {
+        "archetype": "Scientist",
+        "backstory": "You’re a distinguished scientist, responsible for a number of key breakthroughs in your prolific early career. But you’ve followed your theories to more “creative” fringes and the academic field you once dominated has now rejected you as a fraud and a huckster.\n\nYOUR ROLE: Understand and Explain The Zone\n▸ Come Up With Scientific Theories\n▸ Try To Understand and Explain\n▸ Take Samples. Lots of Samples\n      ",
+        "brokenLife": "I have published numerous papers that were plagiarized. I also fear that I have given out medicines that were not only ineffective, but likely cause mutations in the patients.",
+        "name": "Dr. Theo Hale (he/him)",
+        "obsession": "HEAL YOURSELF: You’re sick. The answer must be here.",
+        "phobia": "INCOMPETENCE: Maybe you don’t know what you’re doing"
+      },
+      "deathTime": 1638850168759,
+      "doneChoosingCharacter": true,
+      "fateSequence": "location3",
+      "id": "ZNIHK",
+      "name": "Justin (he/him)",
+      "notSoEasy": {
+        "-MqHtqjHXJtGqyXgP86z": {
+          "claimedTime": 1638847179813,
+          "id": 21,
+          "intro": false,
+          "key": "-MqHtqjHXJtGqyXgP86z",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "NO, AND",
+          "playerId": "ZNIHK",
+          "prompt": "...The Zone *mutates* you in a way that triggers someone else's phobia. If no one else is left, it triggers yours",
+          "sequence": "location1",
+          "tutorial": false
+        },
+        "-MqHxAr80sL8G6JJjnMI": {
+          "claimedTime": 1638848052764,
+          "id": 6,
+          "intro": false,
+          "key": "-MqHxAr80sL8G6JJjnMI",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "ZNIHK",
+          "prompt": "...if you want this done, someone more suited to the task must do it. Help is needed from the other characters, or from a local",
+          "sequence": "location2",
+          "tutorial": false
+        },
+        "-MqHxTfFkSD39Xwys2lS": {
+          "claimedTime": 1638848130164,
+          "id": 22,
+          "intro": false,
+          "key": "-MqHxTfFkSD39Xwys2lS",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "NO, AND",
+          "playerId": "ZNIHK",
+          "prompt": "...The Zone *mutates* you in a way that triggers someone else's obsession. If no one else is left, it triggers yours",
+          "sequence": "location2",
+          "tutorial": false
+        },
+        "-MqI3l9_oFNDnm5tTLEC": {
+          "claimedTime": 1638850040958,
+          "id": 12,
+          "intro": false,
+          "key": "-MqI3l9_oFNDnm5tTLEC",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "ZNIHK",
+          "prompt": "...The Zone *mutates* you in a way that can be hidden from the others",
+          "sequence": "location3",
+          "tutorial": false
+        },
+        "-MqI4FVZjgApQyIUxkgD": {
+          "id": 20,
+          "intro": false,
+          "key": "-MqI4FVZjgApQyIUxkgD",
+          "mutation": true,
+          "ordered": false,
+          "outcome": "NO, AND",
+          "playerId": "ZNIHK",
+          "prompt": "...The Zone *mutates* you in a way that triggers your obsession",
+          "sequence": "location1",
+          "tutorial": false
+        },
+        "-MqIAoVOxFkRz3flNHTH": {
+          "claimedTime": 1638851889689,
+          "id": 3,
+          "intro": false,
+          "key": "-MqIAoVOxFkRz3flNHTH",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "YES, BUT",
+          "playerId": "ZNIHK",
+          "prompt": "...success immediately triggers a much more serious challenge. If it’s a creature, it’s not their final form",
+          "sequence": "location5",
+          "tutorial": false
+        },
+        "-MqIDE1Ao79FehLrnL--": {
+          "claimedTime": 1638852522648,
+          "id": 7,
+          "intro": false,
+          "key": "-MqIDE1Ao79FehLrnL--",
+          "mutation": false,
+          "ordered": false,
+          "outcome": "NO, BUT",
+          "playerId": "ZNIHK",
+          "prompt": "...your failure has unexpected positive consequences",
+          "sequence": "location6",
+          "tutorial": false
+        }
+      },
+      "notSoEasyCount": 0,
+      "playerJudgement": "YES_BUT",
+      "playerJudgementConfirmed": true,
+      "status": "online",
+      "status_last_changed": 1638854573382
+    }
+  },
+  "sceneDeck": {
+    "cards": [
+      {
+        "back": "START (1/3)",
+        "id": 0,
+        "intro": true,
+        "ordered": true,
+        "prompt": "The night before, everyone shares *rumors*",
+        "questions": [
+          "What strange animals or plants have been spotted?",
+          "What weird anomalous artifacts are people talking about?",
+          "What's rumored about the previous expeditions?"
+        ],
+        "sub_1": "What strange animals or plants have been spotted?",
+        "sub_2": "What weird anomalous artifacts are people talking about?",
+        "sub_3": "What's rumored about the previous expeditions?",
+        "tutorial": true,
+        "type": "INTRO"
+      },
+      {
+        "ordered": true,
+        "prompt": "The expedition sees The Boundary for the first time (but does not cross yet)",
+        "questions": [
+          "What does it look like? ",
+          "What does everyone see and feel? (use TAKE STOCK to answer this)",
+          "End scene before entering The Boundary. You will do that in the next scene"
+        ],
+        "type": "TUTORIAL (1/3)"
+      },
+      {
+        "ordered": true,
+        "prompt": "The expedition starts to cross The Boundary, but something's not right ",
+        "questions": [
+          "Something's not right, what is it?",
+          "End scene before leaving The Boundary (that will happen in the next one)"
+        ],
+        "type": "TUTORIAL (2/3)"
+      },
+      {
+        "ordered": true,
+        "prompt": "There is one final obstacle before making it into The Zone",
+        "questions": [
+          "Why is it Not So Easy to make it through the inner side of The Boundary and enter The Zone?",
+          "(You can use Take Stock and Something's Not Right to help set this up, if needed)"
+        ],
+        "type": "TUTORIAL (3/3)"
+      },
+      {
+        "back": "",
+        "id": 12,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Encounter a vision of something that used to be here",
+        "questions": [
+          "How does this vision appear to you?",
+          "What makes the thing that used to be here so surprising?",
+          ""
+        ],
+        "sub_1": "How does this vision appear to you?",
+        "sub_2": "What makes the thing that used to be here so surprising?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 24,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone encounters their phobia",
+        "questions": [
+          "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+          "Why must you face this phobia right now?",
+          ""
+        ],
+        "sub_1": "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+        "sub_2": "Why must you face this phobia right now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 33,
+        "intro": false,
+        "ordered": false,
+        "prompt": "An alliance is formed",
+        "questions": [
+          "Which two characters need each other the most?",
+          "What makes their partnership difficult?",
+          ""
+        ],
+        "sub_1": "Which two characters need each other the most?",
+        "sub_2": "What makes their partnership difficult?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 23,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to develop a new mental or physical power by taking a big risk",
+        "questions": [
+          "Who most wants power?",
+          "What do you try to sacrifice to THE ZONE in exchange for this power?",
+          ""
+        ],
+        "sub_1": "Who most wants power?",
+        "sub_2": "What do you try to sacrifice to THE ZONE in exchange for this power?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 29,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone thinks they've found a way to accomplish their Obsession",
+        "questions": [
+          "Who is most desperate to achieve their Obsession right now?",
+          "Why do they think there's a way right now? Why is this a lie?",
+          ""
+        ],
+        "sub_1": "Who is most desperate to achieve their Obsession right now?",
+        "sub_2": "Why do they think there's a way right now? Why is this a lie?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 19,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Unexpected beauty causes someone to stray towards their obsession",
+        "questions": [
+          "Whose obsession is involved in this scene?",
+          "How does this unexpected beauty ensnare you?",
+          ""
+        ],
+        "sub_1": "Whose obsession is involved in this scene?",
+        "sub_2": "How does this unexpected beauty ensnare you?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 42,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone discovers an anomaly, and tries to hide it from the others",
+        "questions": [
+          "Why does only one of you see this anomaly?",
+          "What makes the anomaly worth hiding?",
+          ""
+        ],
+        "sub_1": "Why does only one of you see this anomaly?",
+        "sub_2": "What makes the anomaly worth hiding?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 26,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone’s past catches up with them",
+        "questions": [
+          "Whose past wants to emerge in this scene? How does it?",
+          "Why were you running from this memory?",
+          ""
+        ],
+        "sub_1": "Whose past wants to emerge in this scene? How does it?",
+        "sub_2": "Why were you running from this memory?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 15,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment itself does something to help a character succeed",
+        "questions": [
+          "How does the environment manifest this help?",
+          "What were you trying to do before you were helped? Why were you failing?",
+          ""
+        ],
+        "sub_1": "How does the environment manifest this help?",
+        "sub_2": "What were you trying to do before you were helped? Why were you failing?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 37,
+        "intro": false,
+        "ordered": false,
+        "prompt": "There is a betrayal",
+        "questions": [
+          "Who would be hurt most by a betrayal?",
+          "What feels necessary about this betrayal?",
+          ""
+        ],
+        "sub_1": "Who would be hurt most by a betrayal?",
+        "sub_2": "What feels necessary about this betrayal?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 20,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Remains reveal something horrific about the previous expedition",
+        "questions": [
+          "What is implied about the previous expedition?",
+          "Whose feeling about the expedition is changed by this?",
+          ""
+        ],
+        "sub_1": "What is implied about the previous expedition?",
+        "sub_2": "Whose feeling about the expedition is changed by this?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 36,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something horrific is revealed by one of you about the previous expedition",
+        "questions": [
+          "Why did the others need to be protected from this truth?",
+          "Why did you know it? Why reveal it now?",
+          ""
+        ],
+        "sub_1": "Why did the others need to be protected from this truth?",
+        "sub_2": "Why did you know it? Why reveal it now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 6,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You meet a creature that knows one of you",
+        "questions": [
+          "Who does the creature know, and how?",
+          "What does this relationship mean for the expedition?",
+          ""
+        ],
+        "sub_1": "Who does the creature know, and how?",
+        "sub_2": "What does this relationship mean for the expedition?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 16,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Meet a creature that embodies a character's phobia",
+        "questions": [
+          "How does this creature know your deepest Phobias?",
+          "What about your phobia did you think THE ZONE could never know?",
+          ""
+        ],
+        "sub_1": "How does this creature know your deepest Phobias?",
+        "sub_2": "What about your phobia did you think THE ZONE could never know?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 13,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Encounter a vision of something that used to be here, triggering a phobia",
+        "questions": [
+          "Whose phobia does this vision embody? How?",
+          "How does that person react to the appearance of their phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia does this vision embody? How?",
+        "sub_2": "How does that person react to the appearance of their phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 30,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Multiple obsessions threaten to split the party",
+        "questions": [
+          "Whose obsessions are most in conflict?",
+          "What makes that conflict suddenly ten times worse?",
+          ""
+        ],
+        "sub_1": "Whose obsessions are most in conflict?",
+        "sub_2": "What makes that conflict suddenly ten times worse?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 21,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Meet a creature that seems to have the same obsession",
+        "questions": [
+          "Whose obsession does this creature seem to share?",
+          "Is it for real? How do you find out?",
+          ""
+        ],
+        "sub_1": "Whose obsession does this creature seem to share?",
+        "sub_2": "Is it for real? How do you find out?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 18,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Take a very risky shortcut",
+        "questions": [
+          "Why do you need to take a shortcut?",
+          "What makes the shortcut so risky?",
+          ""
+        ],
+        "sub_1": "Why do you need to take a shortcut?",
+        "sub_2": "What makes the shortcut so risky?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 45,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly holds a way for someone to get their obsession",
+        "questions": [
+          "How does this anomaly manifest your obsession?",
+          "What must the anomaly take from you in exchange?",
+          ""
+        ],
+        "sub_1": "How does this anomaly manifest your obsession?",
+        "sub_2": "What must the anomaly take from you in exchange?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 47,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly triggers someone's phobia",
+        "questions": [
+          "Whose phobia? Why is this anomaly the worst version of your phobia?",
+          "How does the anomaly force you to confront your phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia? Why is this anomaly the worst version of your phobia?",
+        "sub_2": "How does the anomaly force you to confront your phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 22,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone discovers a mutation that endangers the group",
+        "questions": [
+          "Who is most likely to harbour a dangerous mutation?",
+          "What does the group do to try to be safe from this mutation?",
+          ""
+        ],
+        "sub_1": "Who is most likely to harbour a dangerous mutation?",
+        "sub_2": "What does the group do to try to be safe from this mutation?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 44,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter an incredibly dangerous anomaly",
+        "questions": [
+          "What makes this anomaly dangerous?",
+          "Why must you go through it anyway?",
+          ""
+        ],
+        "sub_1": "What makes this anomaly dangerous?",
+        "sub_2": "Why must you go through it anyway?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 27,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone pursues their obsession, with serious consequences",
+        "questions": [
+          "Why can you no longer control your obsession?",
+          "What's the worst that could happen if you succeed? What about if you fail?",
+          ""
+        ],
+        "sub_1": "Why can you no longer control your obsession?",
+        "sub_2": "What's the worst that could happen if you succeed? What about if you fail?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 31,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to curry favor with another",
+        "questions": [
+          "Who most wants something from another? ",
+          "What will you give for it? Equipment? Secrets? Powers? ",
+          ""
+        ],
+        "sub_1": "Who most wants something from another? ",
+        "sub_2": "What will you give for it? Equipment? Secrets? Powers? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 17,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment triggers a character's phobia",
+        "questions": [
+          "Whose Phobia can the environment most effectively manifest?",
+          "How do you walk right into it?",
+          ""
+        ],
+        "sub_1": "Whose Phobia can the environment most effectively manifest?",
+        "sub_2": "How do you walk right into it?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 8,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something dead delivers a message",
+        "questions": [
+          "How is the message delivered?",
+          "What is the impact of this message—or the messenger? ",
+          ""
+        ],
+        "sub_1": "How is the message delivered?",
+        "sub_2": "What is the impact of this message—or the messenger? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 25,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something helps a character see the true potential of a mutation",
+        "questions": [
+          "What mutation—in a character, or around you—have you only scratched the surface of?",
+          "What if this mutation was ten times stronger?",
+          ""
+        ],
+        "sub_1": "What mutation—in a character, or around you—have you only scratched the surface of?",
+        "sub_2": "What if this mutation was ten times stronger?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 35,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The expedition learns something about a character that changes everything",
+        "questions": [
+          "What did you have to hide to be accepted by the others?",
+          "Why did you believe it was necessary?",
+          ""
+        ],
+        "sub_1": "What did you have to hide to be accepted by the others?",
+        "sub_2": "Why did you believe it was necessary?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 7,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A creature presents a character with an irresistible temptation",
+        "questions": [
+          "What is this creature like?",
+          "Whose obsession does the creature try to tempt with, and how?",
+          ""
+        ],
+        "sub_1": "What is this creature like?",
+        "sub_2": "Whose obsession does the creature try to tempt with, and how?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 46,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly holds a way for someone to avoid their phobia",
+        "questions": [
+          "Whose phobia? How does this anomaly help you avoid it?",
+          "Why is the anomaly's life threatening danger still better than your phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia? How does this anomaly help you avoid it?",
+        "sub_2": "Why is the anomaly's life threatening danger still better than your phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 10,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a helpful creature that lives here",
+        "questions": [
+          "How do you know this creature is helpful?",
+          "What does it want in exchange for its help?",
+          ""
+        ],
+        "sub_1": "How do you know this creature is helpful?",
+        "sub_2": "What does it want in exchange for its help?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 39,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to break away on their own",
+        "questions": [
+          "What can one of you only do alone?",
+          "Why would the rest of them not let you?",
+          ""
+        ],
+        "sub_1": "What can one of you only do alone?",
+        "sub_2": "Why would the rest of them not let you?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 32,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone attempts to persuade another to abandon the mission",
+        "questions": [
+          "Who would want someone off the mission?",
+          "Why now?",
+          ""
+        ],
+        "sub_1": "Who would want someone off the mission?",
+        "sub_2": "Why now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 28,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone desperately tries to get rid of a mutation",
+        "questions": [
+          "Who, and why now? What will happen if they don't succeed?",
+          "How do you (try to) get rid of a mutation?",
+          ""
+        ],
+        "sub_1": "Who, and why now? What will happen if they don't succeed?",
+        "sub_2": "How do you (try to) get rid of a mutation?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 43,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone strays because of an anomaly",
+        "questions": [
+          "How does the anomaly create a different path?",
+          "Why is this path irresistible? ",
+          ""
+        ],
+        "sub_1": "How does the anomaly create a different path?",
+        "sub_2": "Why is this path irresistible? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 4,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A beast poses a terrible threat to the expedition",
+        "questions": [
+          "What makes the beast such a threat?",
+          "Why do you have to confront it?",
+          ""
+        ],
+        "sub_1": "What makes the beast such a threat?",
+        "sub_2": "Why do you have to confront it?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 9,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A creature creates a terrible moral conundrum",
+        "questions": [
+          "What choice is presented to the expedition?",
+          "What makes this conundrum so tough for someone in the expedition?",
+          ""
+        ],
+        "sub_1": "What choice is presented to the expedition?",
+        "sub_2": "What makes this conundrum so tough for someone in the expedition?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 38,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to hide a physical mutation that threatens everyone",
+        "questions": [
+          "Whose mutation could harm everyone if it were ten times worse?",
+          "Why are you certain that it must be hidden from the rest?",
+          ""
+        ],
+        "sub_1": "Whose mutation could harm everyone if it were ten times worse?",
+        "sub_2": "Why are you certain that it must be hidden from the rest?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 5,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Tempted by an intelligent, impossibly beautiful creature",
+        "questions": [
+          "What is the beauty of this creature in your eyes?",
+          "Whose obsession does the creature try to tempt with, and how?",
+          ""
+        ],
+        "sub_1": "What is the beauty of this creature in your eyes?",
+        "sub_2": "Whose obsession does the creature try to tempt with, and how?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 34,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to keep a secret",
+        "questions": [
+          "What secret must absolutely not be revealed?",
+          "What's happening right now to force this secret out into the open?",
+          ""
+        ],
+        "sub_1": "What secret must absolutely not be revealed?",
+        "sub_2": "What's happening right now to force this secret out into the open?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 11,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a “survivor” of the previous expedition",
+        "questions": [
+          "What is left of the \"survivor\"?",
+          "What does the survivor want from you? Why is this not easy to give?",
+          ""
+        ],
+        "sub_1": "What is left of the \"survivor\"?",
+        "sub_2": "What does the survivor want from you? Why is this not easy to give?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 14,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment itself seems to take sides against the expedition",
+        "questions": [
+          "How does the environment manifest this obstacle?",
+          "What were you trying to do before you were blocked?",
+          ""
+        ],
+        "sub_1": "How does the environment manifest this obstacle?",
+        "sub_2": "What were you trying to do before you were blocked?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 40,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a powerful anomaly",
+        "questions": [
+          "What makes this anomaly powerful?",
+          "How does this power trigger your obsession?",
+          ""
+        ],
+        "sub_1": "What makes this anomaly powerful?",
+        "sub_2": "How does this power trigger your obsession?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 41,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You stumble on anomalies that block your way",
+        "questions": [
+          "How do you know these anomalies will block your way?",
+          "What is the cost of progression?",
+          ""
+        ],
+        "sub_1": "How do you know these anomalies will block your way?",
+        "sub_2": "What is the cost of progression?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      }
+    ],
+    "currentIndex": 12,
+    "orderedCards": [
+      {
+        "back": "START (1/3)",
+        "id": 0,
+        "intro": true,
+        "ordered": true,
+        "prompt": "The night before, everyone shares *rumors*",
+        "questions": [
+          "What strange animals or plants have been spotted?",
+          "What weird anomalous artifacts are people talking about?",
+          "What's rumored about the previous expeditions?"
+        ],
+        "sub_1": "What strange animals or plants have been spotted?",
+        "sub_2": "What weird anomalous artifacts are people talking about?",
+        "sub_3": "What's rumored about the previous expeditions?",
+        "tutorial": true,
+        "type": "INTRO"
+      },
+      {
+        "ordered": true,
+        "prompt": "The expedition sees The Boundary for the first time (but does not cross yet)",
+        "questions": [
+          "What does it look like? ",
+          "What does everyone see and feel? (use TAKE STOCK to answer this)",
+          "End scene before entering The Boundary. You will do that in the next scene"
+        ],
+        "type": "TUTORIAL (1/3)"
+      },
+      {
+        "ordered": true,
+        "prompt": "The expedition starts to cross The Boundary, but something's not right ",
+        "questions": [
+          "Something's not right, what is it?",
+          "End scene before leaving The Boundary (that will happen in the next one)"
+        ],
+        "type": "TUTORIAL (2/3)"
+      },
+      {
+        "ordered": true,
+        "prompt": "There is one final obstacle before making it into The Zone",
+        "questions": [
+          "Why is it Not So Easy to make it through the inner side of The Boundary and enter The Zone?",
+          "(You can use Take Stock and Something's Not Right to help set this up, if needed)"
+        ],
+        "type": "TUTORIAL (3/3)"
+      }
+    ],
+    "unorderedCards": [
+      {
+        "back": "",
+        "id": 12,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Encounter a vision of something that used to be here",
+        "questions": [
+          "How does this vision appear to you?",
+          "What makes the thing that used to be here so surprising?",
+          ""
+        ],
+        "sub_1": "How does this vision appear to you?",
+        "sub_2": "What makes the thing that used to be here so surprising?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 24,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone encounters their phobia",
+        "questions": [
+          "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+          "Why must you face this phobia right now?",
+          ""
+        ],
+        "sub_1": "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+        "sub_2": "Why must you face this phobia right now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 33,
+        "intro": false,
+        "ordered": false,
+        "prompt": "An alliance is formed",
+        "questions": [
+          "Which two characters need each other the most?",
+          "What makes their partnership difficult?",
+          ""
+        ],
+        "sub_1": "Which two characters need each other the most?",
+        "sub_2": "What makes their partnership difficult?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 23,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to develop a new mental or physical power by taking a big risk",
+        "questions": [
+          "Who most wants power?",
+          "What do you try to sacrifice to THE ZONE in exchange for this power?",
+          ""
+        ],
+        "sub_1": "Who most wants power?",
+        "sub_2": "What do you try to sacrifice to THE ZONE in exchange for this power?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 29,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone thinks they've found a way to accomplish their Obsession",
+        "questions": [
+          "Who is most desperate to achieve their Obsession right now?",
+          "Why do they think there's a way right now? Why is this a lie?",
+          ""
+        ],
+        "sub_1": "Who is most desperate to achieve their Obsession right now?",
+        "sub_2": "Why do they think there's a way right now? Why is this a lie?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 19,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Unexpected beauty causes someone to stray towards their obsession",
+        "questions": [
+          "Whose obsession is involved in this scene?",
+          "How does this unexpected beauty ensnare you?",
+          ""
+        ],
+        "sub_1": "Whose obsession is involved in this scene?",
+        "sub_2": "How does this unexpected beauty ensnare you?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 42,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone discovers an anomaly, and tries to hide it from the others",
+        "questions": [
+          "Why does only one of you see this anomaly?",
+          "What makes the anomaly worth hiding?",
+          ""
+        ],
+        "sub_1": "Why does only one of you see this anomaly?",
+        "sub_2": "What makes the anomaly worth hiding?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 26,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone’s past catches up with them",
+        "questions": [
+          "Whose past wants to emerge in this scene? How does it?",
+          "Why were you running from this memory?",
+          ""
+        ],
+        "sub_1": "Whose past wants to emerge in this scene? How does it?",
+        "sub_2": "Why were you running from this memory?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 15,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment itself does something to help a character succeed",
+        "questions": [
+          "How does the environment manifest this help?",
+          "What were you trying to do before you were helped? Why were you failing?",
+          ""
+        ],
+        "sub_1": "How does the environment manifest this help?",
+        "sub_2": "What were you trying to do before you were helped? Why were you failing?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 37,
+        "intro": false,
+        "ordered": false,
+        "prompt": "There is a betrayal",
+        "questions": [
+          "Who would be hurt most by a betrayal?",
+          "What feels necessary about this betrayal?",
+          ""
+        ],
+        "sub_1": "Who would be hurt most by a betrayal?",
+        "sub_2": "What feels necessary about this betrayal?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 20,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Remains reveal something horrific about the previous expedition",
+        "questions": [
+          "What is implied about the previous expedition?",
+          "Whose feeling about the expedition is changed by this?",
+          ""
+        ],
+        "sub_1": "What is implied about the previous expedition?",
+        "sub_2": "Whose feeling about the expedition is changed by this?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 36,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something horrific is revealed by one of you about the previous expedition",
+        "questions": [
+          "Why did the others need to be protected from this truth?",
+          "Why did you know it? Why reveal it now?",
+          ""
+        ],
+        "sub_1": "Why did the others need to be protected from this truth?",
+        "sub_2": "Why did you know it? Why reveal it now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 6,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You meet a creature that knows one of you",
+        "questions": [
+          "Who does the creature know, and how?",
+          "What does this relationship mean for the expedition?",
+          ""
+        ],
+        "sub_1": "Who does the creature know, and how?",
+        "sub_2": "What does this relationship mean for the expedition?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 16,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Meet a creature that embodies a character's phobia",
+        "questions": [
+          "How does this creature know your deepest Phobias?",
+          "What about your phobia did you think THE ZONE could never know?",
+          ""
+        ],
+        "sub_1": "How does this creature know your deepest Phobias?",
+        "sub_2": "What about your phobia did you think THE ZONE could never know?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 13,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Encounter a vision of something that used to be here, triggering a phobia",
+        "questions": [
+          "Whose phobia does this vision embody? How?",
+          "How does that person react to the appearance of their phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia does this vision embody? How?",
+        "sub_2": "How does that person react to the appearance of their phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 30,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Multiple obsessions threaten to split the party",
+        "questions": [
+          "Whose obsessions are most in conflict?",
+          "What makes that conflict suddenly ten times worse?",
+          ""
+        ],
+        "sub_1": "Whose obsessions are most in conflict?",
+        "sub_2": "What makes that conflict suddenly ten times worse?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 21,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Meet a creature that seems to have the same obsession",
+        "questions": [
+          "Whose obsession does this creature seem to share?",
+          "Is it for real? How do you find out?",
+          ""
+        ],
+        "sub_1": "Whose obsession does this creature seem to share?",
+        "sub_2": "Is it for real? How do you find out?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 18,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Take a very risky shortcut",
+        "questions": [
+          "Why do you need to take a shortcut?",
+          "What makes the shortcut so risky?",
+          ""
+        ],
+        "sub_1": "Why do you need to take a shortcut?",
+        "sub_2": "What makes the shortcut so risky?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 45,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly holds a way for someone to get their obsession",
+        "questions": [
+          "How does this anomaly manifest your obsession?",
+          "What must the anomaly take from you in exchange?",
+          ""
+        ],
+        "sub_1": "How does this anomaly manifest your obsession?",
+        "sub_2": "What must the anomaly take from you in exchange?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 47,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly triggers someone's phobia",
+        "questions": [
+          "Whose phobia? Why is this anomaly the worst version of your phobia?",
+          "How does the anomaly force you to confront your phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia? Why is this anomaly the worst version of your phobia?",
+        "sub_2": "How does the anomaly force you to confront your phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 22,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone discovers a mutation that endangers the group",
+        "questions": [
+          "Who is most likely to harbour a dangerous mutation?",
+          "What does the group do to try to be safe from this mutation?",
+          ""
+        ],
+        "sub_1": "Who is most likely to harbour a dangerous mutation?",
+        "sub_2": "What does the group do to try to be safe from this mutation?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 44,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter an incredibly dangerous anomaly",
+        "questions": [
+          "What makes this anomaly dangerous?",
+          "Why must you go through it anyway?",
+          ""
+        ],
+        "sub_1": "What makes this anomaly dangerous?",
+        "sub_2": "Why must you go through it anyway?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 27,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone pursues their obsession, with serious consequences",
+        "questions": [
+          "Why can you no longer control your obsession?",
+          "What's the worst that could happen if you succeed? What about if you fail?",
+          ""
+        ],
+        "sub_1": "Why can you no longer control your obsession?",
+        "sub_2": "What's the worst that could happen if you succeed? What about if you fail?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 31,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to curry favor with another",
+        "questions": [
+          "Who most wants something from another? ",
+          "What will you give for it? Equipment? Secrets? Powers? ",
+          ""
+        ],
+        "sub_1": "Who most wants something from another? ",
+        "sub_2": "What will you give for it? Equipment? Secrets? Powers? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 17,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment triggers a character's phobia",
+        "questions": [
+          "Whose Phobia can the environment most effectively manifest?",
+          "How do you walk right into it?",
+          ""
+        ],
+        "sub_1": "Whose Phobia can the environment most effectively manifest?",
+        "sub_2": "How do you walk right into it?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 8,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something dead delivers a message",
+        "questions": [
+          "How is the message delivered?",
+          "What is the impact of this message—or the messenger? ",
+          ""
+        ],
+        "sub_1": "How is the message delivered?",
+        "sub_2": "What is the impact of this message—or the messenger? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 25,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Something helps a character see the true potential of a mutation",
+        "questions": [
+          "What mutation—in a character, or around you—have you only scratched the surface of?",
+          "What if this mutation was ten times stronger?",
+          ""
+        ],
+        "sub_1": "What mutation—in a character, or around you—have you only scratched the surface of?",
+        "sub_2": "What if this mutation was ten times stronger?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 35,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The expedition learns something about a character that changes everything",
+        "questions": [
+          "What did you have to hide to be accepted by the others?",
+          "Why did you believe it was necessary?",
+          ""
+        ],
+        "sub_1": "What did you have to hide to be accepted by the others?",
+        "sub_2": "Why did you believe it was necessary?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 7,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A creature presents a character with an irresistible temptation",
+        "questions": [
+          "What is this creature like?",
+          "Whose obsession does the creature try to tempt with, and how?",
+          ""
+        ],
+        "sub_1": "What is this creature like?",
+        "sub_2": "Whose obsession does the creature try to tempt with, and how?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 46,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A dangerous anomaly holds a way for someone to avoid their phobia",
+        "questions": [
+          "Whose phobia? How does this anomaly help you avoid it?",
+          "Why is the anomaly's life threatening danger still better than your phobia?",
+          ""
+        ],
+        "sub_1": "Whose phobia? How does this anomaly help you avoid it?",
+        "sub_2": "Why is the anomaly's life threatening danger still better than your phobia?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 10,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a helpful creature that lives here",
+        "questions": [
+          "How do you know this creature is helpful?",
+          "What does it want in exchange for its help?",
+          ""
+        ],
+        "sub_1": "How do you know this creature is helpful?",
+        "sub_2": "What does it want in exchange for its help?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 39,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to break away on their own",
+        "questions": [
+          "What can one of you only do alone?",
+          "Why would the rest of them not let you?",
+          ""
+        ],
+        "sub_1": "What can one of you only do alone?",
+        "sub_2": "Why would the rest of them not let you?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 32,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone attempts to persuade another to abandon the mission",
+        "questions": [
+          "Who would want someone off the mission?",
+          "Why now?",
+          ""
+        ],
+        "sub_1": "Who would want someone off the mission?",
+        "sub_2": "Why now?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 28,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone desperately tries to get rid of a mutation",
+        "questions": [
+          "Who, and why now? What will happen if they don't succeed?",
+          "How do you (try to) get rid of a mutation?",
+          ""
+        ],
+        "sub_1": "Who, and why now? What will happen if they don't succeed?",
+        "sub_2": "How do you (try to) get rid of a mutation?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 43,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone strays because of an anomaly",
+        "questions": [
+          "How does the anomaly create a different path?",
+          "Why is this path irresistible? ",
+          ""
+        ],
+        "sub_1": "How does the anomaly create a different path?",
+        "sub_2": "Why is this path irresistible? ",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 4,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A beast poses a terrible threat to the expedition",
+        "questions": [
+          "What makes the beast such a threat?",
+          "Why do you have to confront it?",
+          ""
+        ],
+        "sub_1": "What makes the beast such a threat?",
+        "sub_2": "Why do you have to confront it?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 9,
+        "intro": false,
+        "ordered": false,
+        "prompt": "A creature creates a terrible moral conundrum",
+        "questions": [
+          "What choice is presented to the expedition?",
+          "What makes this conundrum so tough for someone in the expedition?",
+          ""
+        ],
+        "sub_1": "What choice is presented to the expedition?",
+        "sub_2": "What makes this conundrum so tough for someone in the expedition?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 38,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to hide a physical mutation that threatens everyone",
+        "questions": [
+          "Whose mutation could harm everyone if it were ten times worse?",
+          "Why are you certain that it must be hidden from the rest?",
+          ""
+        ],
+        "sub_1": "Whose mutation could harm everyone if it were ten times worse?",
+        "sub_2": "Why are you certain that it must be hidden from the rest?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 5,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Tempted by an intelligent, impossibly beautiful creature",
+        "questions": [
+          "What is the beauty of this creature in your eyes?",
+          "Whose obsession does the creature try to tempt with, and how?",
+          ""
+        ],
+        "sub_1": "What is the beauty of this creature in your eyes?",
+        "sub_2": "Whose obsession does the creature try to tempt with, and how?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 34,
+        "intro": false,
+        "ordered": false,
+        "prompt": "Someone tries to keep a secret",
+        "questions": [
+          "What secret must absolutely not be revealed?",
+          "What's happening right now to force this secret out into the open?",
+          ""
+        ],
+        "sub_1": "What secret must absolutely not be revealed?",
+        "sub_2": "What's happening right now to force this secret out into the open?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "CHARACTER"
+      },
+      {
+        "back": "",
+        "id": 11,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a “survivor” of the previous expedition",
+        "questions": [
+          "What is left of the \"survivor\"?",
+          "What does the survivor want from you? Why is this not easy to give?",
+          ""
+        ],
+        "sub_1": "What is left of the \"survivor\"?",
+        "sub_2": "What does the survivor want from you? Why is this not easy to give?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 14,
+        "intro": false,
+        "ordered": false,
+        "prompt": "The environment itself seems to take sides against the expedition",
+        "questions": [
+          "How does the environment manifest this obstacle?",
+          "What were you trying to do before you were blocked?",
+          ""
+        ],
+        "sub_1": "How does the environment manifest this obstacle?",
+        "sub_2": "What were you trying to do before you were blocked?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ENCOUNTER"
+      },
+      {
+        "back": "",
+        "id": 40,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You encounter a powerful anomaly",
+        "questions": [
+          "What makes this anomaly powerful?",
+          "How does this power trigger your obsession?",
+          ""
+        ],
+        "sub_1": "What makes this anomaly powerful?",
+        "sub_2": "How does this power trigger your obsession?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      },
+      {
+        "back": "",
+        "id": 41,
+        "intro": false,
+        "ordered": false,
+        "prompt": "You stumble on anomalies that block your way",
+        "questions": [
+          "How do you know these anomalies will block your way?",
+          "What is the cost of progression?",
+          ""
+        ],
+        "sub_1": "How do you know these anomalies will block your way?",
+        "sub_2": "What is the cost of progression?",
+        "sub_3": "",
+        "tutorial": false,
+        "type": "ANOMALY"
+      }
+    ]
+  },
+  "sequences": [
+    {
+      "content": {
+        "name": "Start"
+      },
+      "endTime": 1638842823464,
+      "index": 0,
+      "key": "start",
+      "played": false,
+      "type": "START"
+    },
+    {
+      "content": {
+        "name": "Overview"
+      },
+      "endTime": 1638843101775,
+      "index": 1,
+      "key": "rules_overview",
+      "played": true,
+      "startTime": 1638842823464,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Briefing"
+      },
+      "endTime": 1638843463396,
+      "index": 2,
+      "key": "rules_briefing",
+      "played": true,
+      "startTime": 1638843101775,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Flow of the game"
+      },
+      "endTime": 1638843540367,
+      "index": 3,
+      "key": "rules_flow",
+      "played": true,
+      "startTime": 1638843463396,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "intro 1"
+      },
+      "endTime": 1638843577695,
+      "index": 4,
+      "key": "board_intro",
+      "played": true,
+      "startTime": 1638843540367,
+      "type": "RULES_INCONTEXT"
+    },
+    {
+      "content": {
+        "name": "map 1"
+      },
+      "endTime": 1638843597026,
+      "index": 5,
+      "key": "map",
+      "played": true,
+      "startTime": 1638843577695,
+      "type": "RULES_INCONTEXT"
+    },
+    {
+      "content": {
+        "name": "map 2"
+      },
+      "endTime": 1638843615879,
+      "index": 6,
+      "key": "map_scenes",
+      "played": true,
+      "startTime": 1638843597026,
+      "type": "RULES_INCONTEXT"
+    },
+    {
+      "content": {
+        "name": "map 3"
+      },
+      "endTime": 1638843647619,
+      "index": 7,
+      "key": "map_notsoeasy",
+      "played": true,
+      "startTime": 1638843615879,
+      "type": "RULES_INCONTEXT"
+    },
+    {
+      "content": {
+        "name": "map 4"
+      },
+      "endTime": 1638843684132,
+      "index": 8,
+      "key": "map_fate",
+      "played": true,
+      "startTime": 1638843647619,
+      "type": "RULES_INCONTEXT"
+    },
+    {
+      "content": {
+        "name": "map 5"
+      },
+      "endTime": 1638843711088,
+      "index": 9,
+      "key": "map_end",
+      "played": true,
+      "startTime": 1638843684132,
+      "type": "RULES_INCONTEXT"
+    },
+    {
+      "content": {
+        "name": "Safety"
+      },
+      "endTime": 1638843827451,
+      "index": 10,
+      "key": "rules_safety",
+      "played": true,
+      "startTime": 1638843711088,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Level setting"
+      },
+      "endTime": 1638843890605,
+      "index": 11,
+      "key": "rules_safety_2",
+      "played": true,
+      "startTime": 1638843827451,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Rules"
+      },
+      "endTime": 1638843916114,
+      "index": 12,
+      "key": "rules_character_intro",
+      "played": true,
+      "startTime": 1638843890605,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Player Select"
+      },
+      "endTime": 1638844352669,
+      "index": 13,
+      "key": "character_select",
+      "played": true,
+      "startTime": 1638843916114,
+      "type": "PLAYER_SELECT"
+    },
+    {
+      "content": {
+        "name": "Rules"
+      },
+      "endTime": 1638844629874,
+      "index": 14,
+      "key": "rules_characters",
+      "played": true,
+      "startTime": 1638844352669,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "id": 1,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/D6D473F8-42FF-11EA-B3EF-8F5CCE0DAE13/HQ.png",
+        "key": "startLocation",
+        "name": "The Zone Observation Facility",
+        "type": "special",
+        "variant1": "Field tents, sandbags, and portable scientific equipment in the rugged no-man's land around The Zone. Moved often to stay out of The Boundary's expansion",
+        "variant2": "A hulking steel and concrete complex with many sublevels of containment chambers and accomodation for hundreds of classified personnel",
+        "variant3": "A rustic manor and farm just outside the Boundary, requisitioned by the FBC after its owners were not so lucky. "
+      },
+      "endTime": 1638845445318,
+      "index": 15,
+      "key": "startLocation",
+      "notSoEasyDoesntCount": true,
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638845418493,
+          "scene": {
+            "back": "START (1/3)",
+            "id": 0,
+            "intro": true,
+            "ordered": true,
+            "prompt": "The night before, everyone shares *rumors*",
+            "questions": [
+              "What strange animals or plants have been spotted?",
+              "What weird anomalous artifacts are people talking about?",
+              "What's rumored about the previous expeditions?"
+            ],
+            "sub_1": "What strange animals or plants have been spotted?",
+            "sub_2": "What weird anomalous artifacts are people talking about?",
+            "sub_3": "What's rumored about the previous expeditions?",
+            "tutorial": true,
+            "type": "INTRO"
+          },
+          "startTime": 1638844820541
+        }
+      ],
+      "sceneLimit": 1,
+      "scenesInThisSequence": 1,
+      "startTime": 1638844629874,
+      "type": "LOCATION",
+      "variant": 2
+    },
+    {
+      "content": {
+        "name": "The Boundary"
+      },
+      "endTime": 1638845464749,
+      "index": 16,
+      "key": "rules_move_practice",
+      "played": true,
+      "startTime": 1638845445318,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Move Tutorial: Take Stock"
+      },
+      "endTime": 1638845486750,
+      "index": 17,
+      "key": "rules_move_take_stock",
+      "played": true,
+      "startTime": 1638845464749,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Move Tutorial: Something's Not Right"
+      },
+      "endTime": 1638845507658,
+      "index": 18,
+      "key": "rules_move_somethings_not_right",
+      "played": true,
+      "startTime": 1638845486750,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "name": "Move Tutorial: Not So Easy"
+      },
+      "endTime": 1638845805995,
+      "index": 19,
+      "key": "rules_move_not_so_easy",
+      "played": true,
+      "startTime": 1638845507658,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "id": 2,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/FEE0316A-E07C-11E9-AF4B-D3E4C8377648/boundary.png",
+        "key": "boundary",
+        "name": "The Boundary",
+        "type": "special",
+        "variant1": "The Boundary is beautiful. It inspires wonder, a seductive presence drawing you into THE ZONE.",
+        "variant2": "The Boundary itself is invisible, but its presence is clearly felt in its effect on the environment and creatures it intersects.",
+        "variant3": "The Boundary is a psychological. It manifests only in your minds, triggering thoughts, memories."
+      },
+      "endTime": 1638846741291,
+      "index": 20,
+      "key": "boundary",
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638846048405,
+          "scene": {
+            "ordered": true,
+            "prompt": "The expedition sees The Boundary for the first time (but does not cross yet)",
+            "questions": [
+              "What does it look like? ",
+              "What does everyone see and feel? (use TAKE STOCK to answer this)",
+              "End scene before entering The Boundary. You will do that in the next scene"
+            ],
+            "type": "TUTORIAL (1/3)"
+          },
+          "startTime": 1638845867501
+        },
+        {
+          "endTime": 1638846207189,
+          "scene": {
+            "ordered": true,
+            "prompt": "The expedition starts to cross The Boundary, but something's not right ",
+            "questions": [
+              "Something's not right, what is it?",
+              "End scene before leaving The Boundary (that will happen in the next one)"
+            ],
+            "type": "TUTORIAL (2/3)"
+          },
+          "startTime": 1638846059277
+        },
+        {
+          "endTime": 1638846735383,
+          "scene": {
+            "ordered": true,
+            "prompt": "There is one final obstacle before making it into The Zone",
+            "questions": [
+              "Why is it Not So Easy to make it through the inner side of The Boundary and enter The Zone?",
+              "(You can use Take Stock and Something's Not Right to help set this up, if needed)"
+            ],
+            "type": "TUTORIAL (3/3)"
+          },
+          "startTime": 1638846235491
+        }
+      ],
+      "sceneLimit": 3,
+      "sceneMinimum": 3,
+      "scenesInThisSequence": 3,
+      "startTime": 1638845805995,
+      "type": "LOCATION",
+      "variant": 0
+    },
+    {
+      "content": {
+        "name": "the first location beyond The Boundary"
+      },
+      "endTime": 1638846769142,
+      "index": 21,
+      "key": "rules_ready",
+      "played": true,
+      "startTime": 1638846741291,
+      "type": "RULES"
+    },
+    {
+      "content": {
+        "id": 3,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD3DD00E-DC19-11E9-B2D8-90C0F4A73648/location_background_1.png",
+        "key": "theForest",
+        "name": "The Forest",
+        "type": "Wild",
+        "variant1": "Impossible rainforest, deep with every shade of green, iridescent with eye poppingly colorful species that should not exist in this climate.",
+        "variant2": "Golden light permeates this ethereal birch forest, all whites and bright red fall foliage. Shimmering dust seems… to follow.",
+        "variant3": "Thick undergrowth, gnarled root systems, and bulging, mushroom laced trunks loom, mazelike. Glinting eyes watch from burrows."
+      },
+      "endTime": 1638847422435,
+      "index": 22,
+      "key": "location1",
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638847377828,
+          "scene": {
+            "back": "",
+            "id": 12,
+            "intro": false,
+            "ordered": false,
+            "prompt": "Encounter a vision of something that used to be here",
+            "questions": [
+              "How does this vision appear to you?",
+              "What makes the thing that used to be here so surprising?",
+              ""
+            ],
+            "sub_1": "How does this vision appear to you?",
+            "sub_2": "What makes the thing that used to be here so surprising?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "ENCOUNTER"
+          },
+          "startTime": 1638846800538
+        }
+      ],
+      "scenesInThisSequence": 1,
+      "startTime": 1638846769142,
+      "type": "LOCATION",
+      "variant": 2
+    },
+    {
+      "content": {
+        "id": 8,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD90EFD2-DC19-11E9-B2D8-92C0F4A73648/location_background_7.png",
+        "key": "thePrison",
+        "name": "The Prison",
+        "type": "Town",
+        "variant1": "Still secure. Human sounds come from within, but you can't see inmates or guards. When you look away, lights seem to glimmer behind bars.",
+        "variant2": "The walls are in tatters and there’s a giant hole in the front gate, though it looks like it’s from something entering, not exiting.",
+        "variant3": "A panopticon. An outer ring of grimy cells, a looming central observation tower. Its darkened slits make you feel watched"
+      },
+      "endTime": 1638848299251,
+      "index": 23,
+      "key": "location2",
+      "played": true,
+      "sceneHistory": [
+        {
+          "discarded": [
+            {
+              "back": "",
+              "id": 24,
+              "intro": false,
+              "ordered": false,
+              "prompt": "Someone encounters their phobia",
+              "questions": [
+                "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+                "Why must you face this phobia right now?",
+                ""
+              ],
+              "sub_1": "Whose phobia hasn't appeared yet—or hasn't appeared for a while?",
+              "sub_2": "Why must you face this phobia right now?",
+              "sub_3": "",
+              "tutorial": false,
+              "type": "CHARACTER"
+            },
+            {
+              "back": "",
+              "id": 33,
+              "intro": false,
+              "ordered": false,
+              "prompt": "An alliance is formed",
+              "questions": [
+                "Which two characters need each other the most?",
+                "What makes their partnership difficult?",
+                ""
+              ],
+              "sub_1": "Which two characters need each other the most?",
+              "sub_2": "What makes their partnership difficult?",
+              "sub_3": "",
+              "tutorial": false,
+              "type": "CHARACTER"
+            }
+          ],
+          "discardedCount": 2,
+          "endTime": 1638848287005,
+          "scene": {
+            "back": "",
+            "id": 23,
+            "intro": false,
+            "ordered": false,
+            "prompt": "Someone tries to develop a new mental or physical power by taking a big risk",
+            "questions": [
+              "Who most wants power?",
+              "What do you try to sacrifice to THE ZONE in exchange for this power?",
+              ""
+            ],
+            "sub_1": "Who most wants power?",
+            "sub_2": "What do you try to sacrifice to THE ZONE in exchange for this power?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "CHARACTER"
+          },
+          "startTime": 1638847461033
+        }
+      ],
+      "scenesInThisSequence": 1,
+      "startTime": 1638847422435,
+      "type": "LOCATION",
+      "variant": 2
+    },
+    {
+      "content": {
+        "key": "campfire",
+        "name": "The Campfire"
+      },
+      "endTime": 1638849640117,
+      "index": 24,
+      "key": "campfire",
+      "played": true,
+      "startTime": 1638848299251,
+      "type": "CAMPFIRE",
+      "variant": "NO_VARIANT"
+    },
+    {
+      "content": {
+        "id": 23,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AD3DD00E-DC19-11E9-B2D8-90C0F4A73648/location_background_1.png",
+        "key": "theApartments",
+        "name": "The Apartments",
+        "type": "City",
+        "variant1": "A concrete tower block, cramped apartments in various states of disrepair. Some are blasted open. Others are locked, and sound occupied.",
+        "variant2": "A luxurious condominium tower. The private and rich owned its penthouses, rarely needing the street level. Perhaps they are still there.",
+        "variant3": "A converted townhouse, awkwardly split into asymmetric apartments. Rooms suddenly end at strange angles. Many doors lead nowhere."
+      },
+      "endTime": 1638850289022,
+      "fate": "ZNIHK",
+      "fateStatus": "RESOLVED",
+      "index": 25,
+      "key": "location3",
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638850217453,
+          "scene": {
+            "back": "",
+            "id": 29,
+            "intro": false,
+            "ordered": false,
+            "prompt": "Someone thinks they've found a way to accomplish their Obsession",
+            "questions": [
+              "Who is most desperate to achieve their Obsession right now?",
+              "Why do they think there's a way right now? Why is this a lie?",
+              ""
+            ],
+            "sub_1": "Who is most desperate to achieve their Obsession right now?",
+            "sub_2": "Why do they think there's a way right now? Why is this a lie?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "CHARACTER"
+          },
+          "startTime": 1638849779481
+        }
+      ],
+      "scenesInThisSequence": 1,
+      "startTime": 1638849640117,
+      "type": "LOCATION",
+      "variant": 0
+    },
+    {
+      "content": {
+        "id": 22,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/ADD63844-DC19-11E9-AE25-6F038ABD593F/location_background_24.png",
+        "key": "theBureau",
+        "name": "The Bureau",
+        "type": "City",
+        "variant1": "A windowless concrete building. Millions of pages of government records rot inside locked offices, surrounded by an endless cubicle farm",
+        "variant2": "An infamous white elephant. Marble columns, vaulting ceilings, and mahogany paneling give false elegance to a mayor's extravagance. ",
+        "variant3": "The local DMV. CRT monitors, rows of uncomfortable seats for waiting. Strange gaps in the thick dust implies some are still trying to work."
+      },
+      "endTime": 1638850914265,
+      "fate": "8SU3J",
+      "fateStatus": "RESOLVED",
+      "index": 26,
+      "key": "location4",
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638850899743,
+          "scene": {
+            "back": "",
+            "id": 19,
+            "intro": false,
+            "ordered": false,
+            "prompt": "Unexpected beauty causes someone to stray towards their obsession",
+            "questions": [
+              "Whose obsession is involved in this scene?",
+              "How does this unexpected beauty ensnare you?",
+              ""
+            ],
+            "sub_1": "Whose obsession is involved in this scene?",
+            "sub_2": "How does this unexpected beauty ensnare you?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "ENCOUNTER"
+          },
+          "startTime": 1638850327194
+        }
+      ],
+      "scenesInThisSequence": 1,
+      "startTime": 1638850289022,
+      "type": "LOCATION",
+      "variant": 2
+    },
+    {
+      "content": {
+        "id": 19,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AEAF2ADC-DC19-11E9-B2D8-A5C0F4A73648/location_background_21.png",
+        "key": "theLibrary",
+        "name": "The Library",
+        "type": "City",
+        "variant1": "Oaken shelves loaded with ancient books—some locked shut—lit by dusty light shafts. Unnatural quiet. Vaults protect more ancient knowledge.",
+        "variant2": "As much community center as library. Bulky CRT monitors. A soup kitchen. Leaflets for flu shots. File cabinets hold the neighborhood’s story.",
+        "variant3": "A modernist “knowledge hub” with more glowing computer screens than books. Edgy architecture. Glass. Metal. Bright colors. "
+      },
+      "endTime": 1638851926169,
+      "fate": "J6S8A",
+      "fateStatus": "RESOLVED",
+      "index": 27,
+      "key": "location5",
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638851658746,
+          "scene": {
+            "back": "",
+            "id": 42,
+            "intro": false,
+            "ordered": false,
+            "prompt": "Someone discovers an anomaly, and tries to hide it from the others",
+            "questions": [
+              "Why does only one of you see this anomaly?",
+              "What makes the anomaly worth hiding?",
+              ""
+            ],
+            "sub_1": "Why does only one of you see this anomaly?",
+            "sub_2": "What makes the anomaly worth hiding?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "ANOMALY"
+          },
+          "startTime": 1638851108008
+        },
+        {
+          "endTime": 1638851913552,
+          "scene": {
+            "back": "",
+            "id": 26,
+            "intro": false,
+            "ordered": false,
+            "prompt": "Someone’s past catches up with them",
+            "questions": [
+              "Whose past wants to emerge in this scene? How does it?",
+              "Why were you running from this memory?",
+              ""
+            ],
+            "sub_1": "Whose past wants to emerge in this scene? How does it?",
+            "sub_2": "Why were you running from this memory?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "CHARACTER"
+          },
+          "startTime": 1638851737524
+        }
+      ],
+      "scenesInThisSequence": 2,
+      "startTime": 1638850914265,
+      "type": "LOCATION",
+      "variant": 0
+    },
+    {
+      "content": {
+        "id": 24,
+        "image_url": "https://s3.amazonaws.com/files.component.studio/AE452BB4-DC19-11E9-AE25-91038ABD593F/location_background_2.png",
+        "key": "theSuburbs",
+        "name": "The Suburbs",
+        "type": "City",
+        "variant1": "A luxurious walled community with an ornate gate. An all inclusive, gilded fortress for the reclusive misers who could afford it. ",
+        "variant2": "A lowkey suburb. Cul de sacs, plastic basketball hoops, backyard barbecues, cars still in driveways. People knew their neighbors here, once. ",
+        "variant3": "Derelict suburban sprawl. Half boarded up houses and vacant, trash covered lots. Vermin peek out. Perhaps other creatures do too."
+      },
+      "endTime": 1638852543901,
+      "fate": "L796E",
+      "fateStatus": "RESOLVED",
+      "index": 28,
+      "key": "location6",
+      "played": true,
+      "sceneHistory": [
+        {
+          "endTime": 1638852530592,
+          "scene": {
+            "back": "",
+            "id": 15,
+            "intro": false,
+            "ordered": false,
+            "prompt": "The environment itself does something to help a character succeed",
+            "questions": [
+              "How does the environment manifest this help?",
+              "What were you trying to do before you were helped? Why were you failing?",
+              ""
+            ],
+            "sub_1": "How does the environment manifest this help?",
+            "sub_2": "What were you trying to do before you were helped? Why were you failing?",
+            "sub_3": "",
+            "tutorial": false,
+            "type": "ENCOUNTER"
+          },
+          "startTime": 1638852009984
+        }
+      ],
+      "scenesInThisSequence": 1,
+      "startTime": 1638851926169,
+      "type": "LOCATION",
+      "variant": 1
+    },
+    {
+      "content": {
+        "key": "center1",
+        "name": "The Center Part 1"
+      },
+      "endTime": 1638852741301,
+      "fate": "LFVWR",
+      "fateStatus": "ACCEPTED",
+      "index": 29,
+      "key": "center1",
+      "played": true,
+      "startTime": 1638852543901,
+      "type": "CENTER",
+      "variant": "NO_VARIANT"
+    },
+    {
+      "content": {
+        "key": "center1",
+        "name": "The Center Part 2"
+      },
+      "endTime": 1638852833417,
+      "index": 30,
+      "key": "center2",
+      "played": true,
+      "startTime": 1638852741301,
+      "type": "CENTER",
+      "variant": "NO_VARIANT"
+    },
+    {
+      "content": {
+        "name": "Choose the final player's wish"
+      },
+      "endTime": 1638852866012,
+      "index": 31,
+      "key": "endgame_wish",
+      "played": true,
+      "startTime": 1638852833417,
+      "type": "WISH"
+    },
+    {
+      "content": {
+        "name": "Final judgement introduction"
+      },
+      "endTime": 1638852899566,
+      "index": 32,
+      "key": "endgame_judgement_intro",
+      "played": true,
+      "startTime": 1638852866012,
+      "type": "END"
+    },
+    {
+      "content": {
+        "name": "Choose the final player's fate"
+      },
+      "endTime": 1638853126902,
+      "index": 33,
+      "key": "endgame_judgement",
+      "played": true,
+      "startTime": 1638852899566,
+      "type": "END"
+    },
+    {
+      "content": {
+        "name": "The End"
+      },
+      "index": 34,
+      "key": "endgame_report",
+      "played": true,
+      "startTime": 1638853126902,
+      "type": "REPORT"
+    }
+  ],
+  "started": true,
+  "turnOrder": ["8SU3J", "J6S8A", "L796E", "LFVWR", "ZNIHK"],
+  "turnPlayer": "LFVWR",
+  "turnState": "IDLE",
+  "tutorialSkip": false,
+  "tutorialState": "NO_TUTORIAL",
+  "wish": "To be a real, talented writer",
+  "wishConfirmed": false,
+  "xCard": false
+}
